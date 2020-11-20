@@ -321,35 +321,24 @@ F 3 "~" H 4050 4450 50  0001 C CNN
 	1    4050 4450
 	1    0    0    -1  
 $EndComp
-Text GLabel 3200 6350 2    50   Input ~ 0
+Text GLabel 3150 6350 2    50   Input ~ 0
 Vref
-Text GLabel 3200 6250 2    50   Input ~ 0
+Text GLabel 3150 6250 2    50   Input ~ 0
 Aout
-$Comp
-L Device:C C2
-U 1 1 5FD9D19F
-P 5250 5700
-F 0 "C2" H 5365 5746 50  0000 L CNN
-F 1 "100nf" H 5365 5655 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 5288 5550 50  0001 C CNN
-F 3 "~" H 5250 5700 50  0001 C CNN
-	1    5250 5700
-	1    0    0    -1  
-$EndComp
 $Comp
 L Connector:Conn_01x02_Male J6
 U 1 1 5FD860E1
-P 3000 6250
-F 0 "J6" H 2900 6200 50  0000 C CNN
-F 1 "Conn_01x02_Male" H 2900 6350 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3000 6250 50  0001 C CNN
-F 3 "~" H 3000 6250 50  0001 C CNN
-	1    3000 6250
+P 2950 6250
+F 0 "J6" H 2850 6200 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 2850 6350 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2950 6250 50  0001 C CNN
+F 3 "~" H 2950 6250 50  0001 C CNN
+	1    2950 6250
 	1    0    0    -1  
 $EndComp
-Text GLabel 5250 5850 3    50   Input ~ 0
+Text GLabel 5150 5800 3    50   Input ~ 0
 Aout
-Text GLabel 5250 5550 1    50   Input ~ 0
+Text GLabel 5150 5500 1    50   Input ~ 0
 ACout
 $Comp
 L Device:R R2
@@ -391,22 +380,20 @@ Connection ~ 5000 4650
 $Comp
 L Connector:Conn_01x02_Male J1
 U 1 1 5FE44E06
-P 4350 6050
-F 0 "J1" H 4250 6000 50  0000 C CNN
-F 1 "Conn_01x02_Male" H 4250 6150 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4350 6050 50  0001 C CNN
-F 3 "~" H 4350 6050 50  0001 C CNN
-	1    4350 6050
+P 4300 6050
+F 0 "J1" H 4200 6000 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 4200 6150 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4300 6050 50  0001 C CNN
+F 3 "~" H 4300 6050 50  0001 C CNN
+	1    4300 6050
 	1    0    0    -1  
 $EndComp
-Text GLabel 4550 6150 2    50   Input ~ 0
+Text GLabel 4500 6150 2    50   Input ~ 0
 Vref
 Wire Notes Line
 	2450 4050 2450 6650
 Wire Notes Line
 	2450 6650 5650 6650
-Wire Notes Line
-	5650 6650 5650 4050
 Wire Notes Line
 	5650 4050 2450 4050
 Text Notes 2500 950  0    50   ~ 0
@@ -942,24 +929,24 @@ Connection ~ 4400 1750
 $Comp
 L udlabs:PJ-3062-CO J2
 U 1 1 6000E706
-P 2750 5500
-F 0 "J2" H 3550 6015 50  0000 C CNN
-F 1 "PJ-3062-CO" H 3550 5924 50  0000 C CNN
-F 2 "udlabs:PJ3062CO" H 4200 5850 50  0001 L CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/1904121407_XKB-Enterprise-PJ-3062-CO_C319113.pdf" H 4200 5750 50  0001 L CNN
-F 4 "Audio & Video Connectors Female DIP RoHS" H 4200 5650 50  0001 L CNN "Description"
-F 5 "11" H 4200 5550 50  0001 L CNN "Height"
-F 6 "XKB Enterprise" H 4200 5450 50  0001 L CNN "Manufacturer_Name"
-F 7 "PJ-3062-CO" H 4200 5350 50  0001 L CNN "Manufacturer_Part_Number"
-	1    2750 5500
+P 2700 5500
+F 0 "J2" H 3500 6015 50  0000 C CNN
+F 1 "PJ-3062-CO" H 3500 5924 50  0000 C CNN
+F 2 "udlabs:PJ3062CO" H 4150 5850 50  0001 L CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/1904121407_XKB-Enterprise-PJ-3062-CO_C319113.pdf" H 4150 5750 50  0001 L CNN
+F 4 "Audio & Video Connectors Female DIP RoHS" H 4150 5650 50  0001 L CNN "Description"
+F 5 "11" H 4150 5550 50  0001 L CNN "Height"
+F 6 "XKB Enterprise" H 4150 5450 50  0001 L CNN "Manufacturer_Name"
+F 7 "PJ-3062-CO" H 4150 5350 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2700 5500
 	1    0    0    -1  
 $EndComp
-Text GLabel 2750 5250 0    50   Input ~ 0
+Text GLabel 2700 5250 0    50   Input ~ 0
 Vref
-Text GLabel 4350 5550 2    50   Input ~ 0
-ACout
-Text GLabel 4350 5250 2    50   Input ~ 0
-ACout
+Text GLabel 4300 5550 2    50   Input ~ 0
+ACout_spkr
+Text GLabel 4300 5250 2    50   Input ~ 0
+ACout_spkr
 $Comp
 L Connector:Conn_01x03_Male J4
 U 1 1 5FD84F75
@@ -978,21 +965,14 @@ E2
 Text GLabel 3250 4550 2    50   Input ~ 0
 Vref
 Wire Wire Line
-	4350 5350 4350 5450
-Wire Wire Line
-	4350 5350 4750 5350
-Wire Wire Line
-	4750 5350 4750 6050
-Wire Wire Line
-	4550 6050 4750 6050
-Connection ~ 4350 5350
+	4300 5350 4300 5450
 $Comp
 L udlabs:TL2285EE S1
 U 1 1 600708CF
 P 8400 3250
 F 0 "S1" H 9050 3515 50  0000 C CNN
 F 1 "TL2285EE" H 9050 3424 50  0000 C CNN
-F 2 "udlabs:TL2285EE" H 9550 3350 50  0001 L CNN
+F 2 "udlabs:G64_DPDT" H 9550 3350 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/TL2285EE.pdf" H 9550 3250 50  0001 L CNN
 F 4 "Tactile Switches DPDT ALT ACT PC MNT" H 9550 3150 50  0001 L CNN "Description"
 F 5 "13" H 9550 3050 50  0001 L CNN "Height"
@@ -1148,4 +1128,39 @@ Wire Wire Line
 Connection ~ 7950 3550
 Wire Wire Line
 	7950 3550 7950 3450
+$Comp
+L Device:CP C2
+U 1 1 5FB85B2C
+P 5150 5650
+F 0 "C2" H 5268 5696 50  0000 L CNN
+F 1 "CP" H 5268 5605 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5188 5500 50  0001 C CNN
+F 3 "~" H 5150 5650 50  0001 C CNN
+	1    5150 5650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4300 5350 4850 5350
+Wire Wire Line
+	4850 6050 4500 6050
+Connection ~ 4300 5350
+Wire Wire Line
+	4850 5350 4850 6050
+Text GLabel 5500 5500 1    50   Input ~ 0
+ACout_spkr
+Text GLabel 5500 5800 3    50   Input ~ 0
+Aout
+$Comp
+L Device:CP C8
+U 1 1 5FB8EAA6
+P 5500 5650
+F 0 "C8" H 5618 5696 50  0000 L CNN
+F 1 "CP" H 5618 5605 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 5538 5500 50  0001 C CNN
+F 3 "~" H 5500 5650 50  0001 C CNN
+	1    5500 5650
+	-1   0    0    1   
+$EndComp
+Wire Notes Line
+	5650 6650 5650 4050
 $EndSCHEMATC
