@@ -1,8 +1,8 @@
 # Upside Down Labs BioAmp v1.5
 
-[![Open Source Hardware Certification mark](OSHW_mark_IN000019.png)](https://certification.oshwa.org/in000019.html)
+BioAmp v1.5 is a single chip Bio-potential amplifier for recording any Bio-potential signal non-invasively. It's compatible with [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder), which you can use to record and visualize all the Bio-potential signals.
 
-## v1.5.3 Board
+## v1.5.4 Board
 
 ![BioAmp v1.5.3 front](images/BioAmp_v1.5.4_front.png
 )
@@ -12,10 +12,13 @@
 
 ![BioAmp v1.5.3 dimensions](images/BioAmp_v1.5.4_dimensions.png)
 
+![BioAmp v1.5.3 dimensions](images/schematic.png)
+
+Licenses Fact             |  OSHWA Certification
+:-------------------------:|:-------------------------:
+<a href="LICENSE.md"><img src="Licenses_facts.svg" width="300" alt="Open Source Licenses Facts"/></a>  | <a href="https://certification.oshwa.org/in000019.html"><img src="OSHW_mark_IN000019.png" width="300" alt="Open Source Hardware Certification mark"/></a>
+
 ## License
-
-![Open Source Licenses "Facts"](Licenses_facts.png)
-
 #### Hardware
 CERN Open Hardware License Version 2 - Strongly Reciprocal ([CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)).
 
