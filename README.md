@@ -14,7 +14,7 @@ BioAmp v1.5 is a single chip Bio-potential amplifier for recording any Bio-poten
 
 ![BioAmp v1.5.5 dimensions](images/BioAmp_v1.5.5_dimensions.png)
 
-![BioAmp v1.5.5 dimensions](images/BioAmp_v1.5.5_schematic.png)
+![BioAmp v1.5.5 schematic](images/BioAmp_v1.5.5_schematic.png)
 
 | Licenses Facts              |  OSHWA Certification |
 | :-------------------------: | :-------------------------: |
