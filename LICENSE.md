@@ -13,7 +13,7 @@ Hardware Licence comes in three variants: CERN-OHL-P (permissive); and
 two reciprocal licences: CERN-OHL-W (weakly reciprocal) and this
 licence, CERN-OHL-S (strongly reciprocal).
 
-The CERN-OHL-S is copyright CERN 2020. Anyone is welcome to use it, in
+The CERN-OHL-S is copyright CERN 2021. Anyone is welcome to use it, in
 unmodified form only.
 
 Use of this Licence does not imply any endorsement by CERN of any
@@ -295,7 +295,7 @@ subsection 3.2.
 ## Software
 MIT License
 
-Copyright (c) 2020 Upside Down Labs
+Copyright (c) 2021 Upside Down Labs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
