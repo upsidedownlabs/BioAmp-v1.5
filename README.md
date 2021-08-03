@@ -4,7 +4,7 @@
 
 BioAmp v1.5 is a single chip Bio-potential amplifier for recording any Bio-potential signal non-invasively. It's compatible with [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder), which you can use to record and visualize all the Bio-potential signals. 
 
-![Upside Down Labs BioAmp v1.5.6 back](graphics/assembly/15.Full-Kit/Full-Kit-Compact.png)
+[![Upside Down Labs BioAmp v1.5.6 back](graphics/assembly/15.Full-Kit/Full-Kit-Compact-wbg.png)](https://bit.ly/BioAmp-v1_5)
 
 ## Hardware
 
