@@ -1,0 +1,2346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 841.9 595.3"
+   version="1.1"
+   viewBox="0 0 246.92028 377.9"
+   xml:space="preserve"
+   id="svg994"
+   sodipodi:docname="Aligator-Clip-Cabels.svg"
+   width="246.92029"
+   height="377.89999"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata1000"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs998" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="694"
+   id="namedview996"
+   showgrid="false"
+   inkscape:zoom="0.27973064"
+   inkscape:cx="-353.42466"
+   inkscape:cy="74.384053"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg994" />
+<symbol
+   viewBox="-15.7 -15.4 31.4 30.8"
+   id="symbol12"
+   transform="translate(-298.05627,-108.9)">
+	<polygon
+   points="1.3,-13.2 1.3,-15.4 -7.2,-15.4 -7.2,-13.2 "
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   id="polygon2" />
+	<polygon
+   points="-15.7,-8.3 -15.7,-6.2 9.8,-6.2 9.8,-8.3 "
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   id="polygon4" />
+	<polygon
+   points="1.3,0.9 1.3,-1.2 -7.2,-1.2 -7.2,0.9 "
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   id="polygon6" />
+	<polygon
+   points="-15.7,5.8 -15.7,8 9.8,8 9.8,5.8 "
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   id="polygon8" />
+		<path
+   d="M 15.7,11.1 H 12.9 V 8.2 h -1.5 v 2.9 H 8.6 v 1.4 h 2.8 v 2.9 h 1.5 v -2.9 h 2.8 z"
+   fill="#ec1e24"
+   id="path10" />
+</symbol>
+<symbol
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke="#000000"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="0.7193"
+   viewBox="-7.6 -4.6 15.2 9.1"
+   id="symbol18"
+   transform="translate(-298.05627,-108.9)">
+		<polygon
+   points="7.2,4.2 7.2,1.3 -7.2,1.3 -7.2,4.2 "
+   id="polygon14" />
+		<polygon
+   points="7.2,-1.4 7.2,-4.2 -7.2,-4.2 -7.2,-1.4 "
+   id="polygon16" />
+</symbol>
+<symbol
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke="#000000"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="0.7193"
+   viewBox="-8.6 -5.3 17.1 10.5"
+   id="symbol24"
+   transform="translate(-298.05627,-108.9)">
+		<polygon
+   points="-8.2,-1.6 -8.2,-4.9 8.2,-4.9 8.2,-1.6 "
+   id="polygon20" />
+		<polygon
+   points="-8.2,4.9 -8.2,1.6 8.2,1.6 8.2,4.9 "
+   fill="#ffffff"
+   id="polygon22" />
+</symbol>
+<symbol
+   id="cc"
+   viewBox="-3 -3 5.9 5.9"
+   transform="translate(-298.05627,-108.9)">
+		<path
+   d="M 2.4,0 C 2.4,-1.3 1.3,-2.4 0,-2.4 -1.3,-2.4 -2.4,-1.3 -2.4,0 -2.4,1.3 -1.3,2.4 0,2.4 1.3,2.4 2.4,1.3 2.4,0 Z"
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke="#000000"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="path26" />
+</symbol>
+<symbol
+   viewBox="-3 -3 5.9 5.9"
+   id="symbol31"
+   transform="translate(-298.05627,-108.9)">
+		<path
+   d="M 2.4,0 C 2.4,-1.3 1.3,-2.4 0,-2.4 -1.3,-2.4 -2.4,-1.3 -2.4,0 -2.4,1.3 -1.3,2.4 0,2.4 1.3,2.4 2.4,1.3 2.4,0 Z"
+   clip-rule="evenodd"
+   fill="#231f20"
+   fill-rule="evenodd"
+   stroke="#231f20"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="path29" />
+</symbol>
+<symbol
+   viewBox="-3 -3 5.9 5.9"
+   id="symbol35"
+   transform="translate(-298.05627,-108.9)">
+		<path
+   d="M 2.4,0 C 2.4,-1.3 1.3,-2.4 0,-2.4 -1.3,-2.4 -2.4,-1.3 -2.4,0 -2.4,1.3 -1.3,2.4 0,2.4 1.3,2.4 2.4,1.3 2.4,0 Z"
+   clip-rule="evenodd"
+   fill="#221f1f"
+   fill-rule="evenodd"
+   stroke="#221f1f"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="path33" />
+</symbol>
+<symbol
+   viewBox="-7.9 -7.9 15.7 15.7"
+   id="symbol43"
+   transform="translate(-298.05627,-108.9)">
+	<g
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke="#000000"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="g41">
+			<polygon
+   points="6.5,0.1 -7.3,-6.9 -7.3,6.9 "
+   id="polygon37" />
+			<polygon
+   points="7.2,-7 6.3,-7 6.3,7 7.2,7 "
+   id="polygon39" />
+	</g>
+</symbol>
+<symbol
+   viewBox="-9.1 -4.1 18.2 8.3"
+   id="symbol53"
+   transform="translate(-298.05627,-108.9)">
+	<g
+   fill="none"
+   stroke="#000000"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="g51">
+			<line
+   x1="8.5"
+   x2="-8.5"
+   y1="3.5"
+   y2="3.5"
+   id="line45" />
+			<line
+   x1="-4.9000001"
+   x2="5"
+   y1="0.1"
+   y2="0.1"
+   id="line47" />
+			<line
+   x1="-1.3"
+   x2="1.4"
+   y1="-3.5"
+   y2="-3.5"
+   id="line49" />
+	</g>
+</symbol>
+<symbol
+   viewBox="-14 -5.5 28.1 11.1"
+   id="symbol65"
+   transform="translate(-298.05627,-108.9)">
+	<g
+   fill="none"
+   stroke="#231f20"
+   stroke-linecap="round"
+   id="g63">
+		<path
+   d="m -13.5,-0.7 c 0,3.2 2,5.8 4.5,5.8 2.5,0 4.5,-2.6 4.5,-5.8 C -4.5,-2.5 -5,-4 -6,-5"
+   id="path55" />
+		<path
+   d="m -6,-5 c -1,1 -1.5,2.6 -1.5,4.3 0,3.2 2,5.7 4.5,5.7 C -0.5,5 1.5,2.4 1.5,-0.8 1.5,-2.4 0.9,-3.9 0,-5"
+   id="path57" />
+		<path
+   d="m 0,-5 c -1,1 -1.5,2.6 -1.5,4.3 C -1.5,2.5 0.6,5 3,5 5.5,5 7.5,2.4 7.5,-0.8 7.5,-2.4 7,-3.9 6.1,-5"
+   id="path59" />
+		<path
+   d="M 6,-5 C 5.1,-3.9 4.5,-2.4 4.5,-0.7 4.5,2.5 6.6,5 9,5 c 2.5,0 4.5,-2.6 4.5,-5.8"
+   id="path61" />
+	</g>
+</symbol>
+<symbol
+   viewBox="-3.7 -3.7 7.4 7.4"
+   id="symbol69"
+   transform="translate(-298.05627,-108.9)">
+		<path
+   d="M 3.1,0 C 3.1,-1.7 1.7,-3.1 0,-3.1 -1.7,-3.1 -3.1,-1.7 -3.1,0 -3.1,1.7 -1.7,3.1 0,3.1 1.7,3.1 3.1,1.7 3.1,0 Z"
+   clip-rule="evenodd"
+   fill="#ffffff"
+   fill-rule="evenodd"
+   stroke="#000000"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="path67" />
+</symbol>
+<symbol
+   viewBox="-3.7 -3.7 7.4 7.4"
+   id="symbol73"
+   transform="translate(-298.05627,-108.9)">
+		<path
+   d="M 3.1,0 C 3.1,-1.7 1.7,-3.1 0,-3.1 -1.7,-3.1 -3.1,-1.7 -3.1,0 -3.1,1.7 -1.7,3.1 0,3.1 1.7,3.1 3.1,1.7 3.1,0 Z"
+   clip-rule="evenodd"
+   fill="#ffffff"
+   fill-rule="evenodd"
+   stroke="#231f20"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   stroke-width="1.1988"
+   id="path71" />
+</symbol>
+<symbol
+   id="cd"
+   viewBox="-4.3 -11 8.5 22.1"
+   transform="translate(-298.05627,-108.9)">
+	<polygon
+   points="4.3,-6.5 -0.5,-3.8 4.3,-1.3 -0.5,1.2 4.3,3.8 -0.5,6.4 4.3,8.9 0.4,11 -0.4,11 0.5,8.9 -4.3,6.4 0.5,3.8 -4.3,1.2 0.5,-1.3 -4.3,-3.8 0.5,-6.5 -4.3,-8.9 -0.4,-11 0.4,-11 -0.4,-8.9 "
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   id="polygon75" />
+</symbol>
+<symbol
+   viewBox="-10.2 -15.3 20.4 30.7"
+   id="symbol90"
+   transform="translate(-298.05627,-108.9)">
+			<use
+   transform="translate(304.00447,104.61)"
+   x="-4.3000002"
+   y="-11"
+   width="8.5"
+   height="22.1"
+   overflow="visible"
+   xlink:href="#cd"
+   id="use78" />
+		<line
+   x1="-9.6999998"
+   x2="-9.6999998"
+   y1="12.8"
+   y2="-3"
+   fill="none"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   id="line80" />
+		<line
+   x1="-3.7"
+   x2="-9.6999998"
+   y1="-3"
+   y2="-3"
+   fill="none"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   id="line82" />
+		<line
+   x1="5.5999999"
+   x2="-9.6999998"
+   y1="12.8"
+   y2="12.8"
+   fill="none"
+   stroke="#000000"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   id="line84" />
+			<use
+   transform="matrix(0.8293,0,0,0.8293,253.09016,103.20077)"
+   x="-3"
+   y="-3"
+   width="5.9000001"
+   height="5.9000001"
+   overflow="visible"
+   xlink:href="#cc"
+   id="use86" />
+		<polygon
+   points="-4.1,-4.9 -4.1,-1.2 1.7,-3.1 "
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   id="polygon88" />
+</symbol>
+				<g
+   enable-background="new    "
+   id="g178"
+   transform="translate(-298.05627,-108.9)">
+					<g
+   enable-background="new    "
+   id="g108">
+						<defs
+   id="defs93">
+							<path
+   id="cp"
+   d="m 528.8,148.1 -1.5,-0.8 c 0.3,-0.3 0.4,-0.7 0.3,-1 l 1.5,0.8 c 0.1,0.3 0,0.7 -0.3,1 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="da">
+							<use
+   overflow="visible"
+   xlink:href="#cp"
+   id="use95"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#da)"
+   enable-background="new    "
+   id="g106">
+							<path
+   d="m 528.8,148.1 -1.5,-0.8 0.1,-0.1 1.5,0.8 c 0,0.1 -0.1,0.1 -0.1,0.1"
+   fill="#4a4a4a"
+   id="path98" />
+							<path
+   d="m 528.9,148 -1.5,-0.8 c 0,-0.1 0.1,-0.1 0.1,-0.2 l 1.5,0.8 c 0,0.1 -0.1,0.2 -0.1,0.2"
+   fill="#484848"
+   id="path100" />
+							<path
+   d="m 529,147.9 -1.5,-0.8 c 0,-0.1 0.1,-0.1 0.1,-0.2 l 1.5,0.8 c -0.1,0.1 -0.1,0.1 -0.1,0.2"
+   fill="#454545"
+   id="path102" />
+							<path
+   d="m 529.1,147.7 -1.5,-0.8 c 0.1,-0.2 0.1,-0.4 0,-0.6 l 1.5,0.8 c 0.1,0.2 0,0.4 0,0.6"
+   fill="#434343"
+   id="path104" />
+						</g>
+					</g>
+						<polygon
+   points="527,145.3 528.5,146.1 529.1,147.2 527.5,146.3 "
+   fill="#404040"
+   id="polygon110" />
+						<polygon
+   points="527,145.3 528.5,146.1 527.6,147.1 526.1,146.2 "
+   fill="#786481"
+   id="polygon112" />
+					<g
+   enable-background="new    "
+   id="g124">
+						<defs
+   id="defs115">
+							<path
+   id="bi"
+   d="m 510.8,168.9 -1.5,-0.8 c 1,-1.2 15.2,-17.4 18,-20.8 l 1.5,0.8 c -2.8,3.4 -17,19.7 -18,20.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="bt">
+							<use
+   overflow="visible"
+   xlink:href="#bi"
+   id="use117"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#bt)"
+   enable-background="new    "
+   id="g122">
+							<path
+   d="m 510.8,168.9 -1.5,-0.8 c 1,-1.2 15.2,-17.4 18,-20.8 l 1.5,0.8 c -2.8,3.4 -17,19.7 -18,20.8"
+   fill="#4a4a4a"
+   id="path120" />
+						</g>
+					</g>
+						<polygon
+   points="526.1,146.2 527.6,147.1 527.1,148.6 525.6,147.8 "
+   fill="#675670"
+   id="polygon126" />
+						<polygon
+   points="526,146.2 527.5,147 527.1,148.5 525.6,147.7 "
+   fill="#464646"
+   id="polygon128" />
+						<polygon
+   points="527,145.1 528.5,146 527.5,147 526,146.2 "
+   fill="#535353"
+   id="polygon130" />
+						<polygon
+   points="523.8,147.4 525.3,148.2 524.6,151.4 523.1,150.6 "
+   fill="#64536c"
+   id="polygon132" />
+						<polygon
+   points="525.6,147.8 527.1,148.6 525.3,148.2 523.8,147.4 "
+   fill="#7c6785"
+   id="polygon134" />
+						<polygon
+   points="525.6,147.7 527.1,148.5 525.2,148.1 523.7,147.3 "
+   fill="#565656"
+   id="polygon136" />
+						<polygon
+   points="523.7,147.3 525.2,148.1 524.6,151.3 523.1,150.4 "
+   fill="#444444"
+   id="polygon138" />
+						<polygon
+   points="523.1,150.6 524.6,151.4 521.4,150.5 519.9,149.7 "
+   fill="#7b6683"
+   id="polygon140" />
+						<polygon
+   points="519.9,149.7 521.4,150.5 521,155.1 519.4,154.3 "
+   fill="#615169"
+   id="polygon142" />
+						<polygon
+   points="519.8,149.6 521.3,150.4 521,155 519.4,154.2 "
+   fill="#424242"
+   id="polygon144" />
+						<polygon
+   points="523.1,150.4 524.6,151.3 521.3,150.4 519.8,149.6 "
+   fill="#555555"
+   id="polygon146" />
+						<polygon
+   points="514.6,153.5 516.1,154.3 516.8,158.7 515.3,157.9 "
+   fill="#5d4e65"
+   id="polygon148" />
+						<polygon
+   points="519.4,154.3 521,155.1 516.1,154.3 514.6,153.5 "
+   fill="#7e6987"
+   id="polygon150" />
+						<polygon
+   points="514.4,153.4 516,154.2 516.7,158.6 515.2,157.8 "
+   fill="#404040"
+   id="polygon152" />
+						<polygon
+   points="519.4,154.2 521,155 516,154.2 514.4,153.4 "
+   fill="#575757"
+   id="polygon154" />
+						<polygon
+   points="515.3,157.9 516.8,158.7 511.1,158.4 509.6,157.6 "
+   fill="#806b8a"
+   id="polygon156" />
+						<polygon
+   points="509.6,157.6 511.1,158.4 511.7,163.1 510.2,162.3 "
+   fill="#5d4e65"
+   id="polygon158" />
+						<polygon
+   points="515.2,157.8 516.7,158.6 511,158.4 509.5,157.5 "
+   fill="#595959"
+   id="polygon160" />
+						<polygon
+   points="509.5,157.5 511,158.4 511.7,163 510.1,162.1 "
+   fill="#404040"
+   id="polygon162" />
+						<polygon
+   points="510.2,162.3 511.7,163.1 507.5,162 506,161.2 "
+   fill="#7b6784"
+   id="polygon164" />
+						<path
+   d="m 528.5,146.1 0.6,1.1 c 0.1,0.3 0,0.6 -0.3,1 -2.8,3.4 -17,19.6 -18,20.8 l -3.3,-6.9 4.2,1.1 -0.6,-4.7 5.7,0.3 -0.7,-4.4 4.9,0.8 0.4,-4.6 3.2,0.9 0.7,-3.2 1.8,0.4 0.5,-1.6 z"
+   fill="#a186ae"
+   id="path166" />
+						<polygon
+   points="506,161.2 507.5,162 510.8,168.9 509.3,168.1 "
+   fill="#5d4e65"
+   id="polygon168" />
+						<polygon
+   points="510.1,162.1 511.7,163 507.5,161.9 505.9,161 "
+   fill="#555555"
+   id="polygon170" />
+						<path
+   d="m 529.2,147.1 c 0.2,0.3 0,0.7 -0.3,1.1 -2.9,3.5 -17.9,20.7 -18,20.9 l -3.5,-7.1 0.1,-0.1 4.2,1.1 -0.7,-4.6 5.7,0.2 -0.8,-4.4 5,0.8 0.4,-4.6 3.3,0.8 0.6,-3.1 1.9,0.4 0.4,-1.5 1,-1.1 z m -0.4,1 c 0.3,-0.3 0.4,-0.7 0.3,-1 l -0.6,-1.1 -0.9,1 -0.4,1.5 -1.9,-0.4 -0.6,3.1 -3.3,-0.8 -0.4,4.6 -5,-0.8 0.8,4.4 -5.7,-0.2 0.7,4.6 -4.3,-1 3.3,6.9 c 1,-1.1 15.2,-17.4 18,-20.8"
+   fill="#707070"
+   id="path172" />
+						<polygon
+   points="505.9,161 507.5,161.9 507.4,162 505.8,161.1 "
+   fill="#505050"
+   id="polygon174" />
+						<polygon
+   points="505.8,161.1 507.4,162 510.8,169.1 509.3,168.2 "
+   fill="#404040"
+   id="polygon176" />
+				</g>
+				<g
+   enable-background="new    "
+   id="g380"
+   transform="translate(-298.05627,-108.9)">
+						<polygon
+   points="523,142.3 524.5,143.1 524.3,144.6 522.7,143.8 "
+   fill="#444444"
+   id="polygon180" />
+						<polygon
+   points="523.7,140.9 525.2,141.8 524.5,143.1 523,142.3 "
+   fill="#4b4b4b"
+   id="polygon182" />
+						<polygon
+   points="523.5,140.7 525,141.5 525.2,141.8 523.7,140.9 "
+   fill="#404040"
+   id="polygon184" />
+					<g
+   enable-background="new    "
+   id="g196">
+						<defs
+   id="defs187">
+							<path
+   id="bz"
+   d="m 523,140.3 1.5,0.8 c 0.2,0.1 0.4,0.3 0.5,0.4 l -1.5,-0.8 c -0.1,-0.2 -0.3,-0.3 -0.5,-0.4 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="ca">
+							<use
+   overflow="visible"
+   xlink:href="#bz"
+   id="use189"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#ca)"
+   enable-background="new    "
+   id="g194">
+							<path
+   d="m 525,141.5 -1.5,-0.8 c -0.1,-0.2 -0.3,-0.3 -0.5,-0.4 l 1.5,0.8 c 0.2,0.1 0.4,0.2 0.5,0.4"
+   fill="#434343"
+   id="path192" />
+						</g>
+					</g>
+						<polygon
+   points="520.8,143.7 522.3,144.5 522.1,147.6 520.6,146.8 "
+   fill="#424242"
+   id="polygon198" />
+						<polygon
+   points="522.7,143.8 524.3,144.6 522.3,144.5 520.8,143.7 "
+   fill="#595959"
+   id="polygon200" />
+					<g
+   enable-background="new    "
+   id="g216">
+						<defs
+   id="defs203">
+							<path
+   id="cb"
+   d="m 522.1,140.1 c 0.3,0 0.7,0 0.9,0.2 l 1.5,0.8 c -0.3,-0.2 -0.6,-0.2 -0.9,-0.2 -0.5,-0.2 -1.1,-0.6 -1.5,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cg">
+							<use
+   overflow="visible"
+   xlink:href="#cb"
+   id="use205"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cg)"
+   enable-background="new    "
+   id="g214">
+							<path
+   d="m 523.6,140.9 -1.5,-0.8 h 0.6 l 1.5,0.8 h -0.6"
+   fill="#7b6684"
+   id="path208" />
+							<path
+   d="m 524.2,141 -1.5,-0.8 c 0.1,0 0.2,0.1 0.3,0.1 l 1.5,0.8 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1"
+   fill="#776380"
+   id="path210" />
+							<path
+   d="m 524.5,141.1 -1.5,-0.8 h 0.1 l 1.4,0.8"
+   fill="#73607d"
+   id="path212" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g230">
+						<defs
+   id="defs219">
+							<path
+   id="dh"
+   d="m 521.3,140.4 c 0.2,-0.2 0.5,-0.3 0.8,-0.3 l 1.5,0.8 c -0.3,0 -0.5,0.1 -0.8,0.3 -0.5,-0.2 -1,-0.5 -1.5,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="ce">
+							<use
+   overflow="visible"
+   xlink:href="#dh"
+   id="use221"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#ce)"
+   enable-background="new    "
+   id="g228">
+							<path
+   d="m 522.8,141.2 -1.5,-0.8 c 0.1,-0.1 0.2,-0.1 0.3,-0.2 l 1.5,0.8 c -0.1,0.1 -0.2,0.2 -0.3,0.2"
+   fill="#776380"
+   id="path224" />
+							<path
+   d="m 523.1,141.1 -1.5,-0.8 c 0.2,-0.1 0.3,-0.1 0.5,-0.2 l 1.5,0.8 c -0.2,0.1 -0.4,0.1 -0.5,0.2"
+   fill="#7b6684"
+   id="path226" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g244">
+						<defs
+   id="defs233">
+							<path
+   id="cf"
+   d="m 521.1,140.5 c 0.1,0 0.1,-0.1 0.2,-0.1 0.5,0.3 1,0.6 1.5,0.8 -0.1,0 -0.1,0.1 -0.2,0.1 -0.5,-0.2 -1,-0.5 -1.5,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="ch">
+							<use
+   overflow="visible"
+   xlink:href="#cf"
+   id="use235"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#ch)"
+   enable-background="new    "
+   id="g242">
+							<path
+   d="m 504.8,156 -1.5,-0.8 c 3.6,-2.5 13.3,-10.7 17.9,-14.6 0.1,0 0.1,-0.1 0.2,-0.1 l 1.5,0.8 c -0.1,0 -0.1,0.1 -0.2,0.1 -4.6,3.8 -14.4,12.1 -17.9,14.6"
+   fill="#73607d"
+   id="path238" />
+							<path
+   d="m 522.8,141.2 -1.5,-0.8 c 0.1,-0.1 0.2,-0.1 0.3,-0.2 l 1.5,0.8 c -0.1,0.1 -0.2,0.2 -0.3,0.2"
+   fill="#776380"
+   id="path240" />
+						</g>
+					</g>
+						<polygon
+   points="517.2,146.5 518.7,147.3 518.9,151.8 517.3,151 "
+   fill="#414141"
+   id="polygon246" />
+						<polygon
+   points="520.6,146.8 522.1,147.6 518.7,147.3 517.2,146.4 "
+   fill="#585858"
+   id="polygon248" />
+						<polygon
+   points="517.2,146.4 518.7,147.3 517.2,146.5 "
+   fill="#484848"
+   id="polygon250" />
+					<g
+   enable-background="new    "
+   id="g262">
+						<defs
+   id="defs253">
+							<path
+   id="ci"
+   d="m 516.1,144.8 c 1.9,-1.6 3.7,-3.1 5,-4.2 0.5,0.3 1,0.6 1.5,0.8 -1.3,1.1 -3.1,2.6 -5,4.2 -0.5,-0.3 -1,-0.5 -1.5,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cj">
+							<use
+   overflow="visible"
+   xlink:href="#ci"
+   id="use255"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cj)"
+   enable-background="new    "
+   id="g260">
+							<path
+   d="m 504.8,156 -1.5,-0.8 c 3.6,-2.5 13.3,-10.7 17.9,-14.6 0.1,0 0.1,-0.1 0.2,-0.1 l 1.5,0.8 c -0.1,0 -0.1,0.1 -0.2,0.1 -4.6,3.8 -14.4,12.1 -17.9,14.6"
+   fill="#73607d"
+   id="path258" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g274">
+						<defs
+   id="defs265">
+							<path
+   id="ck"
+   d="m 516,144.9 c 0.6,0.2 1.1,0.5 1.6,0.8 l -0.1,0.1 c -0.5,-0.4 -1,-0.7 -1.5,-0.9 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cl">
+							<use
+   overflow="visible"
+   xlink:href="#ck"
+   id="use267"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cl)"
+   enable-background="new    "
+   id="g272">
+							<path
+   d="m 504.8,156 -1.5,-0.8 c 3.6,-2.5 13.3,-10.7 17.9,-14.6 0.1,0 0.1,-0.1 0.2,-0.1 l 1.5,0.8 c -0.1,0 -0.1,0.1 -0.2,0.1 -4.6,3.8 -14.4,12.1 -17.9,14.6"
+   fill="#73607d"
+   id="path270" />
+						</g>
+					</g>
+						<polygon
+   points="517.3,151 518.9,151.8 513.8,151.7 512.3,150.9 "
+   fill="#595959"
+   id="polygon276" />
+						<polygon
+   points="512.2,151 513.8,151.8 515.1,156 513.5,155.1 "
+   fill="#404040"
+   id="polygon278" />
+						<polygon
+   points="512.3,150.9 513.8,151.7 513.8,151.8 512.2,150.9 "
+   fill="#595959"
+   id="polygon280" />
+						<polygon
+   points="512.2,150.9 513.8,151.8 512.2,151 "
+   fill="#434343"
+   id="polygon282" />
+						<polygon
+   points="513.5,155.1 515.1,156 509.3,156.5 507.8,155.6 "
+   fill="#5a5a5a"
+   id="polygon284" />
+						<polygon
+   points="507.7,155.8 509.3,156.6 510.5,160.9 509,160.1 "
+   fill="#404040"
+   id="polygon286" />
+						<polygon
+   points="507.7,155.7 509.3,156.5 509.3,156.6 507.7,155.8 "
+   fill="#454545"
+   id="polygon288" />
+						<polygon
+   points="507.8,155.6 509.3,156.5 507.7,155.7 "
+   fill="#585858"
+   id="polygon290" />
+						<polygon
+   points="509,160.1 510.5,160.9 505.6,160.4 504,159.6 "
+   fill="#585858"
+   id="polygon292" />
+						<polygon
+   points="504.3,159.2 505.9,160.1 505.9,160.2 504.3,159.3 "
+   fill="#63526b"
+   id="polygon294" />
+						<polygon
+   points="504.3,159.3 505.9,160.2 505.6,160.4 504,159.6 "
+   fill="#7b6784"
+   id="polygon296" />
+						<polygon
+   points="503.8,159.7 505.3,160.5 505.4,160.6 503.9,159.7 "
+   fill="#404040"
+   id="polygon298" />
+						<polygon
+   points="504.2,159.3 505.7,160.1 505.4,160.5 503.8,159.6 "
+   fill="#555555"
+   id="polygon300" />
+						<polygon
+   points="503.8,159.6 505.4,160.5 505.3,160.5 503.8,159.7 "
+   fill="#474747"
+   id="polygon302" />
+					<g
+   enable-background="new    "
+   id="g314">
+						<defs
+   id="defs305">
+							<path
+   id="cm"
+   d="m 516,144.9 c 0.5,0.3 1,0.6 1.5,0.8 -4.1,3.4 -8.8,7.3 -11.6,9.5 -0.5,-0.3 -1,-0.6 -1.5,-0.8 2.8,-2.2 7.5,-6.1 11.6,-9.5 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cn">
+							<use
+   overflow="visible"
+   xlink:href="#cm"
+   id="use307"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cn)"
+   enable-background="new    "
+   id="g312">
+							<path
+   d="m 504.8,156 -1.5,-0.8 c 3.6,-2.5 13.3,-10.7 17.9,-14.6 0.1,0 0.1,-0.1 0.2,-0.1 l 1.5,0.8 c -0.1,0 -0.1,0.1 -0.2,0.1 -4.6,3.8 -14.4,12.1 -17.9,14.6"
+   fill="#73607d"
+   id="path310" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g328">
+						<defs
+   id="defs317">
+							<path
+   id="co"
+   d="m 504.3,154.3 c 0.5,0.3 1,0.6 1.5,0.8 -0.7,0.6 -1.3,1 -1.8,1.2 -0.5,-0.3 -1,-0.6 -1.5,-0.8 0.5,-0.2 1.1,-0.6 1.8,-1.2 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cq">
+							<use
+   overflow="visible"
+   xlink:href="#co"
+   id="use319"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cq)"
+   enable-background="new    "
+   id="g326">
+							<path
+   d="m 503.7,156.6 -1.5,-0.8 c 0.2,-0.1 0.6,-0.3 1,-0.6 l 1.5,0.8 c -0.4,0.3 -0.7,0.5 -1,0.6"
+   fill="#776380"
+   id="path322" />
+							<path
+   d="m 504.8,156 -1.5,-0.8 c 3.6,-2.5 13.3,-10.7 17.9,-14.6 0.1,0 0.1,-0.1 0.2,-0.1 l 1.5,0.8 c -0.1,0 -0.1,0.1 -0.2,0.1 -4.6,3.8 -14.4,12.1 -17.9,14.6"
+   fill="#73607d"
+   id="path324" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g342">
+						<defs
+   id="defs331">
+							<path
+   id="cr"
+   d="m 502.1,155.8 c 0.1,0 0.3,-0.1 0.5,-0.3 0.5,0.3 1,0.6 1.5,0.8 -0.2,0.1 -0.4,0.2 -0.5,0.3 -0.5,-0.2 -1.1,-0.5 -1.5,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cs">
+							<use
+   overflow="visible"
+   xlink:href="#cr"
+   id="use333"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cs)"
+   enable-background="new    "
+   id="g340">
+							<path
+   d="m 503.6,156.7 -1.5,-0.8 c 0,0 0.1,0 0.1,-0.1 l 1.5,0.8 c 0,0 -0.1,0 -0.1,0.1"
+   fill="#7b6684"
+   id="path336" />
+							<path
+   d="m 503.7,156.6 -1.5,-0.8 c 0.2,-0.1 0.6,-0.3 1,-0.6 l 1.5,0.8 c -0.4,0.3 -0.7,0.5 -1,0.6"
+   fill="#776380"
+   id="path338" />
+						</g>
+					</g>
+						<polygon
+   points="502.1,155.8 503.6,156.7 505.9,160.1 504.3,159.2 "
+   fill="#5d4e65"
+   id="polygon344" />
+						<path
+   d="m 525.1,141.4 0.2,0.3 v 0.1 l -0.7,1.3 -0.3,1.6 -2,-0.1 -0.2,3.1 v 0.1 l -3.4,-0.4 0.2,4.5 h -5.1 l 1.3,4.1 v 0.1 l -5.8,0.6 1.2,4.4 v 0.1 l -5.3,-0.5 v -0.1 l 0.4,-0.3 -2.3,-3.4 v -0.1 l 0.1,-0.1 c 1.3,-0.2 14.9,-11.7 19,-15.3 0.3,-0.3 0.7,-0.4 1,-0.5 0.8,-0.2 1.4,0 1.7,0.5 z m -0.6,1.7 0.7,-1.3 -0.2,-0.2 c -0.3,-0.5 -0.9,-0.7 -1.4,-0.6 -0.3,0 -0.7,0.2 -1,0.4 -5.2,4.4 -17.3,14.7 -19,15.3 l 2.3,3.4 v 0.1 l -0.3,0.3 4.9,0.5 -1.2,-4.4 v -0.1 h 0.1 l 5.7,-0.5 -1.3,-4.1 v -0.1 h 0.1 l 5,0.1 -0.2,-4.5 v -0.1 l 3.4,0.4 0.2,-3.1 2,0.1 0.2,-1.6"
+   fill="#707070"
+   id="path346" />
+						<path
+   d="m 523.6,140.9 c 0.6,-0.1 1.1,0.1 1.4,0.6 l 0.2,0.2 -0.7,1.3 -0.3,1.5 -1.9,-0.2 -0.3,3.2 -3.3,-0.4 -0.1,0.1 0.2,4.5 -5,-0.1 h -0.1 v 0.1 l 1.3,4.1 -5.7,0.5 h -0.1 v 0.1 l 1.2,4.4 -4.9,-0.5 0.3,-0.3 v -0.1 l -2.3,-3.4 c 1.7,-0.6 13.8,-10.8 19,-15.3 0.4,-0.1 0.7,-0.2 1.1,-0.3 z"
+   fill="#a186ae"
+   id="path348" />
+						<polygon
+   points="501.9,155.9 503.4,156.7 505.7,160.1 504.2,159.3 "
+   fill="#404040"
+   id="polygon350" />
+					<g
+   enable-background="new    "
+   id="g374">
+						<defs
+   id="defs353">
+							<path
+   id="ct"
+   d="m 523.1,140.1 1.5,0.8 c -0.3,-0.2 -0.7,-0.2 -1,-0.2 -0.4,0.1 -0.7,0.2 -1,0.5 -4.1,3.5 -17.7,15 -19,15.3 l -1.5,-0.8 c 1.3,-0.2 14.9,-11.7 19,-15.3 0.3,-0.3 0.7,-0.4 1,-0.5 0.3,0 0.7,0.1 1,0.2 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cu">
+							<use
+   overflow="visible"
+   xlink:href="#ct"
+   id="use355"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cu)"
+   enable-background="new    "
+   id="g372">
+							<path
+   d="m 503.5,156.5 -1.5,-0.8 c 0,0 0.1,0 0.2,-0.1 l 1.5,0.8 c -0.1,0.1 -0.1,0.1 -0.2,0.1"
+   fill="#545454"
+   id="path358" />
+							<path
+   d="m 503.7,156.5 -1.5,-0.8 c 0.2,-0.1 0.5,-0.3 1,-0.6 l 1.5,0.8 c -0.4,0.3 -0.8,0.5 -1,0.6"
+   fill="#525252"
+   id="path360" />
+							<path
+   d="m 504.7,155.9 -1.5,-0.8 c 3.7,-2.6 14.3,-11.6 17.9,-14.6 0.1,0 0.1,-0.1 0.2,-0.1 l 1.5,0.8 c -0.1,0 -0.1,0.1 -0.2,0.1 -3.6,3 -14.3,12 -17.9,14.6"
+   fill="#4f4f4f"
+   id="path362" />
+							<path
+   d="m 522.7,141.1 -1.5,-0.8 c 0.1,-0.1 0.2,-0.1 0.3,-0.2 l 1.5,0.8 c -0.1,0.1 -0.2,0.2 -0.3,0.2"
+   fill="#525252"
+   id="path364" />
+							<path
+   d="m 523,141 -1.5,-0.8 c 0.2,-0.1 0.4,-0.1 0.6,-0.2 h 0.7 l 1.5,0.8 c -0.2,-0.1 -0.4,-0.1 -0.7,0 -0.2,0 -0.4,0.1 -0.6,0.2"
+   fill="#545454"
+   id="path366" />
+							<path
+   d="m 524.3,140.8 -1.5,-0.8 c 0.1,0 0.2,0.1 0.3,0.1 l 1.5,0.8 c -0.1,0 -0.2,-0.1 -0.3,-0.1"
+   fill="#525252"
+   id="path368" />
+							<path
+   d="m 524.6,140.9 -1.5,-0.8 h 0.1 l 1.4,0.8"
+   fill="#4f4f4f"
+   id="path370" />
+						</g>
+					</g>
+						<polygon
+   points="501.9,155.8 503.4,156.6 503.4,156.7 501.9,155.9 "
+   fill="#414141"
+   id="polygon376" />
+						<polygon
+   points="502,155.7 503.5,156.5 503.4,156.6 501.9,155.8 "
+   fill="#575757"
+   id="polygon378" />
+				</g>
+	<path
+   d="m 217.34373,53.3 -9.3,-8.5 c -0.7,-0.7 -1.8,-0.7 -2.6,-0.2 -6.2,4 -30.8,20.1 -32.2,24.2 -1.6,4.6 -2.3,11.3 -1.5,14.9 0.6,2.5 -2.4,6.4 -4.2,8.5 -0.8,0.9 -0.7,2.2 0.2,3 l 1.4,1.3 c 0.8,0.8 2.1,0.7 2.9,-0.1 2.1,-2.1 6,-5.6 8.3,-5.9 3.3,-0.4 11.1,0.1 13.6,-2.7 2.2,-2.4 19.1,-25.4 23.7,-31.6 0.7,-0.9 0.5,-2.1 -0.3,-2.9 z"
+   stroke="#808080"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.1564"
+   id="path382" />
+				<g
+   enable-background="new    "
+   id="g478"
+   transform="translate(-298.05627,-108.9)">
+						<polygon
+   points="320.8,484.4 320.5,486.4 318.9,486.6 319.2,484.6 "
+   fill="#454545"
+   id="polygon384" />
+					<g
+   enable-background="new    "
+   id="g396">
+						<defs
+   id="defs387">
+							<path
+   id="cv"
+   d="m 321.5,483.6 -0.3,2 c -0.1,0.4 -0.3,0.8 -0.7,0.8 l 0.3,-2 c 0.3,0 0.6,-0.3 0.7,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cw">
+							<use
+   overflow="visible"
+   xlink:href="#cv"
+   id="use389"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cw)"
+   enable-background="new    "
+   id="g394">
+							<path
+   d="m 320.5,486.4 0.3,-2 c 0.4,0 0.6,-0.3 0.7,-0.8 l -0.3,2 c -0.1,0.5 -0.4,0.8 -0.7,0.8"
+   fill="#434343"
+   id="path392" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g408">
+						<defs
+   id="defs399">
+							<path
+   id="cx"
+   d="m 324.5,458 0.3,-2 c -0.2,1.5 -2.7,23.2 -3.4,27.6 l -0.3,2 c 0.7,-4.4 3.3,-26 3.4,-27.6 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="cy">
+							<use
+   overflow="visible"
+   xlink:href="#cx"
+   id="use401"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#cy)"
+   enable-background="new    "
+   id="g406">
+							<path
+   d="m 324.5,458 0.3,-2 c -0.2,1.5 -2.7,23.2 -3.4,27.6 l -0.3,2 c 0.7,-4.4 3.3,-26 3.4,-27.6"
+   fill="#73607d"
+   id="path404" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g420">
+						<defs
+   id="defs411">
+							<path
+   id="cz"
+   d="m 321.5,483.6 -0.3,2 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="db">
+							<use
+   overflow="visible"
+   xlink:href="#cz"
+   id="use413"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#db)"
+   enable-background="new    "
+   id="g418">
+							<path
+   d="m 321.2,485.6 0.3,-2 -0.3,2"
+   fill="#73607d"
+   id="path416" />
+						</g>
+					</g>
+						<polygon
+   points="319.2,484.6 318.9,486.6 319,485.3 319.3,483.3 "
+   fill="#515151"
+   id="polygon422" />
+						<polygon
+   points="320.4,482 320.1,484 319,485.3 319.3,483.3 "
+   fill="#5d4e65"
+   id="polygon424" />
+						<polygon
+   points="320.3,481.9 319.9,484 318.9,485.3 319.2,483.2 "
+   fill="#404040"
+   id="polygon426" />
+						<polygon
+   points="320.4,481.9 320.1,483.9 318,482.6 318.3,480.6 "
+   fill="#565656"
+   id="polygon428" />
+						<polygon
+   points="320.8,478.2 320.4,480.3 318,482.6 318.3,480.6 "
+   fill="#5d4e65"
+   id="polygon430" />
+						<polygon
+   points="320.6,478.2 320.3,480.2 317.8,482.7 318.1,480.6 "
+   fill="#404040"
+   id="polygon432" />
+						<polygon
+   points="320.7,478.1 320.4,480.2 316.6,478 316.9,475.9 "
+   fill="#555555"
+   id="polygon434" />
+						<polygon
+   points="321,472.9 320.7,475 316.6,478 316.9,475.9 "
+   fill="#5d4e65"
+   id="polygon436" />
+						<polygon
+   points="320.8,472.9 320.5,474.9 316.4,478 316.7,476 "
+   fill="#404040"
+   id="polygon438" />
+						<polygon
+   points="321,472.8 320.6,474.9 315.3,471.2 315.6,469.2 "
+   fill="#575757"
+   id="polygon440" />
+						<polygon
+   points="320.5,467.2 320.2,469.3 315.3,471.2 315.6,469.2 "
+   fill="#5e4f66"
+   id="polygon442" />
+						<polygon
+   points="320.4,467.1 320,469.2 315.1,471.2 315.4,469.2 "
+   fill="#414141"
+   id="polygon444" />
+						<polygon
+   points="320.5,467.1 320.2,469.2 314.6,464.5 315,462.5 "
+   fill="#585858"
+   id="polygon446" />
+						<polygon
+   points="320,460.3 319.7,462.4 314.6,464.5 315,462.5 "
+   fill="#5e4e66"
+   id="polygon448" />
+						<polygon
+   points="319.9,460.3 319.5,462.3 314.5,464.6 314.8,462.5 "
+   fill="#414141"
+   id="polygon450" />
+						<polygon
+   points="320.1,460.2 319.7,462.3 314.8,459.4 315.1,457.3 "
+   fill="#565656"
+   id="polygon452" />
+						<polygon
+   points="324.9,456 324.5,458 314.8,459.4 315.1,457.3 "
+   fill="#64536c"
+   id="polygon454" />
+						<path
+   d="m 321.3,485.7 c -0.1,0.5 -0.4,0.9 -0.8,0.9 l -1.6,0.2 v -1.5 l 1.1,-1.3 -2.1,-1.3 2.5,-2.5 -3.8,-2.2 4.1,-3.1 -5.4,-3.7 4.9,-2 -5.6,-4.6 5.1,-2.3 -5,-2.9 10,-1.5 c 0,0.3 -2.7,23.2 -3.4,27.8 z m -0.8,0.7 c 0.4,0 0.6,-0.4 0.7,-0.8 0.7,-4.4 3.2,-26.1 3.4,-27.6 l -9.8,1.3 4.9,2.9 -5.1,2.3 5.6,4.6 -4.9,2 5.4,3.7 -4.1,3.1 3.8,2.2 -2.5,2.5 2.1,1.3 -1.1,1.4 -0.1,1.3 1.7,-0.2"
+   fill="#707070"
+   id="path456" />
+						<path
+   d="m 324.5,458 c -0.2,1.5 -2.7,23.2 -3.4,27.6 -0.1,0.4 -0.3,0.8 -0.7,0.8 l -1.5,0.2 0.1,-1.3 1.1,-1.3 -2.1,-1.4 2.5,-2.4 -3.9,-2.3 4.1,-3 -5.4,-3.8 4.9,-1.9 -5.6,-4.7 5.1,-2.2 -4.9,-3 z"
+   fill="#a186ae"
+   id="path458" />
+						<polygon
+   points="324.9,455.9 324.6,457.9 314.6,459.4 314.9,457.3 "
+   fill="#454545"
+   id="polygon460" />
+					<g
+   enable-background="new    "
+   id="g476">
+						<defs
+   id="defs463">
+							<path
+   id="dc"
+   d="m 324.6,457.9 0.3,-2 c 0.1,0.3 -2.6,23.2 -3.3,27.8 l -0.3,2 c 0.7,-4.6 3.4,-27.5 3.3,-27.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="dd">
+							<use
+   overflow="visible"
+   xlink:href="#dc"
+   id="use465"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#dd)"
+   enable-background="new    "
+   id="g474">
+							<path
+   d="m 324.6,457.9 0.3,-2 -0.3,2"
+   fill="#545454"
+   id="path468" />
+							<path
+   d="m 324.6,457.9 0.3,-2 c 0,0.5 -0.6,5.3 -1.2,10.9 l -0.3,2 c 0.7,-5.6 1.2,-10.4 1.2,-10.9"
+   fill="#525252"
+   id="path470" />
+							<path
+   d="m 323.4,468.8 0.3,-2 c -0.8,6.7 -1.7,14.4 -2.1,16.9 l -0.3,2 c 0.4,-2.5 1.3,-10.2 2.1,-16.9"
+   fill="#4f4f4f"
+   id="path472" />
+						</g>
+					</g>
+				</g>
+				<g
+   enable-background="new    "
+   id="g574"
+   transform="translate(-298.05627,-108.9)">
+						<polygon
+   points="313.1,483.9 312.7,486 312.3,485.9 312.7,483.9 "
+   fill="#484848"
+   id="polygon480" />
+						<polygon
+   points="313.7,482.6 313.4,484.6 312.7,486 313.1,483.9 "
+   fill="#404040"
+   id="polygon482" />
+						<polygon
+   points="315,481.5 314.6,483.5 313.4,484.6 313.7,482.6 "
+   fill="#404040"
+   id="polygon484" />
+						<polygon
+   points="315,481.5 314.6,483.5 312.7,481.9 313.1,479.8 "
+   fill="#806b8a"
+   id="polygon486" />
+						<polygon
+   points="315.2,481.4 314.8,483.4 312.9,481.9 313.2,479.9 "
+   fill="#585858"
+   id="polygon488" />
+						<polygon
+   points="315.9,477.8 315.5,479.8 312.7,482 313.1,479.9 "
+   fill="#404040"
+   id="polygon490" />
+						<polygon
+   points="315.9,477.8 315.5,479.8 312.1,477.2 312.4,475.2 "
+   fill="#7f6a89"
+   id="polygon492" />
+						<polygon
+   points="316.1,477.7 315.7,479.8 312.3,477.2 312.6,475.2 "
+   fill="#585858"
+   id="polygon494" />
+						<polygon
+   points="312.4,475.2 312.1,477.2 312.1,477.1 312.4,475.1 "
+   fill="#776380"
+   id="polygon496" />
+						<polygon
+   points="316.9,472.6 316.6,474.6 312,477.2 312.4,475.1 "
+   fill="#404040"
+   id="polygon498" />
+						<polygon
+   points="316.9,472.6 316.6,474.6 311.8,470.4 312.1,468.4 "
+   fill="#806c8b"
+   id="polygon500" />
+						<polygon
+   points="317.1,472.6 316.8,474.6 312,470.4 312.3,468.4 "
+   fill="#595959"
+   id="polygon502" />
+						<polygon
+   points="312.1,468.4 311.8,470.4 311.8,470.3 312.1,468.3 "
+   fill="#816c8c"
+   id="polygon504" />
+						<polygon
+   points="312.1,468.2 311.8,470.3 312.1,468.3 "
+   fill="#404040"
+   id="polygon506" />
+						<polygon
+   points="317.4,466.9 317,468.9 311.8,470.3 312.1,468.2 "
+   fill="#434343"
+   id="polygon508" />
+						<polygon
+   points="317.6,467 317.3,469 317.2,468.9 317.6,466.9 "
+   fill="#585858"
+   id="polygon510" />
+						<polygon
+   points="317.4,466.9 317,468.9 312.2,463.8 312.5,461.7 "
+   fill="#826d8c"
+   id="polygon512" />
+						<polygon
+   points="317.6,466.9 317.2,468.9 312.4,463.8 312.7,461.7 "
+   fill="#5a5a5a"
+   id="polygon514" />
+						<polygon
+   points="312.5,461.7 312.2,463.8 312.2,463.7 312.5,461.7 "
+   fill="#806a89"
+   id="polygon516" />
+						<polygon
+   points="312.6,461.6 312.2,463.6 312.2,463.7 312.5,461.7 "
+   fill="#404040"
+   id="polygon518" />
+						<polygon
+   points="317.9,460.1 317.6,462.1 312.2,463.6 312.6,461.6 "
+   fill="#424242"
+   id="polygon520" />
+						<polygon
+   points="318.2,460.1 317.9,462.1 317.8,462.1 318.2,460 "
+   fill="#5a5a5a"
+   id="polygon522" />
+					<g
+   enable-background="new    "
+   id="g550">
+						<defs
+   id="defs525">
+							<path
+   id="de"
+   d="m 307,458.8 0.3,-2 c 1,1.9 2.4,18.3 2.9,25.2 0,0.2 0.1,0.5 0.2,0.7 0.4,0.7 1.3,1.2 2.2,1.3 l -0.3,2 c -0.9,0 -1.8,-0.5 -2.2,-1.3 -0.1,-0.2 -0.2,-0.5 -0.2,-0.7 -0.5,-7 -1.9,-23.3 -2.9,-25.2 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="df">
+							<use
+   overflow="visible"
+   xlink:href="#de"
+   id="use527"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#df)"
+   enable-background="new    "
+   id="g548">
+							<path
+   d="m 307,458.8 0.3,-2 c 0.8,1.5 1.8,12 2.5,19.7 l -0.3,2 c -0.7,-7.7 -1.7,-18.2 -2.5,-19.7"
+   fill="#545454"
+   id="path530" />
+							<path
+   d="m 309.5,478.5 0.3,-2 c 0.2,2.1 0.3,4 0.5,5.5 l -0.3,2 c -0.2,-1.5 -0.3,-3.4 -0.5,-5.5"
+   fill="#525252"
+   id="path532" />
+							<path
+   d="m 310,484 0.3,-2 c 0,0.2 0.1,0.5 0.2,0.7 0.1,0.2 0.2,0.4 0.4,0.5 l -0.3,2 c -0.1,-0.2 -0.3,-0.3 -0.4,-0.5 -0.2,-0.2 -0.2,-0.5 -0.2,-0.7"
+   fill="#545454"
+   id="path534" />
+							<path
+   d="m 310.5,485.2 0.3,-2 0.3,0.3 -0.3,2 -0.3,-0.3"
+   fill="#525252"
+   id="path536" />
+							<path
+   d="m 310.8,485.5 0.3,-2 c 0.1,0.1 0.2,0.1 0.3,0.2 l -0.3,2 c -0.1,-0.1 -0.2,-0.2 -0.3,-0.2"
+   fill="#4f4f4f"
+   id="path538" />
+							<path
+   d="m 311.1,485.6 0.3,-2 c 0.1,0 0.2,0.1 0.3,0.1 l -0.3,2 c -0.1,0 -0.2,0 -0.3,-0.1"
+   fill="#4d4d4d"
+   id="path540" />
+							<path
+   d="m 311.4,485.8 0.3,-2 c 0.1,0 0.2,0.1 0.3,0.1 l -0.3,2 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1"
+   fill="#4a4a4a"
+   id="path542" />
+							<path
+   d="m 311.7,485.8 0.3,-2 c 0.1,0 0.2,0.1 0.3,0.1 l -0.3,2 c -0.1,0 -0.2,0 -0.3,-0.1"
+   fill="#484848"
+   id="path544" />
+							<path
+   d="m 312,485.9 0.3,-2 h 0.4 l -0.3,2 H 312"
+   fill="#454545"
+   id="path546" />
+						</g>
+					</g>
+						<polygon
+   points="307.2,456.6 306.9,458.6 306.8,458.7 307.1,456.6 "
+   fill="#414141"
+   id="polygon552" />
+						<polygon
+   points="312.8,456.7 312.4,458.7 307,458.8 307.3,456.8 "
+   fill="#685670"
+   id="polygon554" />
+						<polygon
+   points="312.9,456.6 312.5,458.6 312.4,458.7 312.8,456.7 "
+   fill="#5d4e65"
+   id="polygon556" />
+						<polygon
+   points="312.7,456.5 312.4,458.5 306.9,458.6 307.2,456.6 "
+   fill="#474747"
+   id="polygon558" />
+						<polygon
+   points="312.9,456.6 312.5,458.6 312.5,458.2 312.8,456.2 "
+   fill="#545454"
+   id="polygon560" />
+						<polygon
+   points="317.9,460.1 317.6,462.1 312.5,458.2 312.8,456.2 "
+   fill="#806a89"
+   id="polygon562" />
+						<path
+   d="m 317.6,462.1 -5.4,1.5 -0.1,0.1 v 0.1 l 4.8,5.2 -5.2,1.3 h -0.1 v 0.1 l 4.8,4.2 -4.5,2.5 v 0.1 l 3.5,2.6 -2.8,2 1.9,1.6 -1.2,1.1 -0.7,1.4 h -0.4 c -0.9,0 -1.8,-0.5 -2.2,-1.3 -0.1,-0.2 -0.2,-0.5 -0.2,-0.7 -0.6,-6.9 -2,-23.3 -2.9,-25.2 l 5.4,-0.1 0.1,-0.1 v -0.4 z"
+   fill="#a186ae"
+   id="path564" />
+						<polygon
+   points="312.7,455.9 312.4,458 312.3,458 312.7,456 "
+   fill="#404040"
+   id="polygon566" />
+						<path
+   d="m 312.9,486.1 h -0.5 c -1,0 -1.9,-0.5 -2.4,-1.4 -0.1,-0.2 -0.2,-0.5 -0.2,-0.8 -0.4,-5.4 -1.9,-23.2 -2.9,-25.1 l -0.1,-0.1 v -0.1 h 0.1 l 5.5,-0.1 V 458 l 0.1,-0.1 h 0.1 l 5.4,4.1 v 0.1 l -5.4,1.6 4.8,5.2 v 0.1 l -5.2,1.4 4.8,4.2 -4.5,2.6 3.5,2.6 -2.8,2.2 1.9,1.5 -1.3,1.3 z m -0.6,-0.2 h 0.4 l 0.7,-1.3 1.3,-1.1 -1.9,-1.5 2.8,-2.1 -3.5,-2.6 v -0.1 l 4.6,-2.5 -4.8,-4.2 v -0.1 h 0.1 l 5.2,-1.3 -4.8,-5.2 v -0.1 l 0.1,-0.1 5.4,-1.5 -5.1,-3.9 v 0.4 l -0.1,0.1 -5.4,0.1 c 1,1.9 2.4,18.3 2.9,25.2 0,0.2 0.1,0.5 0.2,0.7 0.1,0.6 1,1.1 1.9,1.1"
+   fill="#707070"
+   id="path568" />
+						<polygon
+   points="312.8,455.9 312.5,458 312.4,458 312.7,455.9 "
+   fill="#4b4b4b"
+   id="polygon570" />
+						<polygon
+   points="318.2,460 317.8,462.1 312.5,458 312.8,455.9 "
+   fill="#585858"
+   id="polygon572" />
+				</g>
+	<path
+   d="m 25.54373,358.7 -15,-0.3 c -1.0999997,0 -1.9999997,-0.8 -2.2999997,-1.9 -2,-8.3 -9.9,-42.1 -7.8,-46.6 2.4,-5.2 6.2,-11.5 9.8999997,-13.9 2.6,-1.7 3.2,-7.4 3.3,-10.7 0,-1.3 1.2,-2.3 2.5,-2.3 h 4.4 c 1.3,0 2.3,1.1 2.4,2.4 0.1,3.4 0.5,9.7 2.3,11.8 2.5,3.1 8.3,8.9 8.2,13.3 -0.1,3.8 -4.3,37.2 -5.4,46 -0.2,1.3 -1.2,2.2 -2.5,2.2 z"
+   stroke="#808080"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.1834"
+   id="path576" />
+			<g
+   enable-background="new    "
+   id="g674"
+   transform="translate(-298.05627,-108.9)">
+					<polygon
+   points="512.9,356.8 512.9,354.8 521.8,350.9 521.8,353 "
+   fill="#424242"
+   id="polygon578" />
+					<polygon
+   points="519.9,357.7 519.9,355.7 521.8,350.9 521.8,353 "
+   fill="#5d4e65"
+   id="polygon580" />
+					<polygon
+   points="520,357.7 520.1,355.6 522,350.8 521.9,352.8 "
+   fill="#404040"
+   id="polygon582" />
+					<polygon
+   points="519.9,357.8 520,355.8 525.7,354.9 525.7,357 "
+   fill="#474747"
+   id="polygon584" />
+					<polygon
+   points="519.9,357.8 519.9,355.7 520,355.8 519.9,357.8 "
+   fill="#555555"
+   id="polygon586" />
+					<polygon
+   points="524.5,363.4 524.6,361.3 525.7,354.9 525.7,357 "
+   fill="#5d4e65"
+   id="polygon588" />
+					<polygon
+   points="524.7,363.3 524.7,361.3 525.8,354.8 525.7,356.8 "
+   fill="#404040"
+   id="polygon590" />
+					<polygon
+   points="524.6,363.5 524.7,361.4 530.1,360.5 530,362.5 "
+   fill="#474747"
+   id="polygon592" />
+					<polygon
+   points="528.3,368.1 528.4,366 530.1,360.5 530,362.5 "
+   fill="#5d4e65"
+   id="polygon594" />
+					<polygon
+   points="528.5,368 528.6,366 530.2,360.3 530.1,362.4 "
+   fill="#404040"
+   id="polygon596" />
+					<polygon
+   points="528.4,368.1 528.5,366.1 534,366.4 533.9,368.5 "
+   fill="#4d4d4d"
+   id="polygon598" />
+					<polygon
+   points="532.4,372.1 532.4,370 534,366.4 533.9,368.5 "
+   fill="#5d4e65"
+   id="polygon600" />
+					<polygon
+   points="532.5,372.1 532.6,370 534.1,366.3 534,368.3 "
+   fill="#404040"
+   id="polygon602" />
+					<polygon
+   points="532.4,372.2 532.5,370.1 536.2,370.7 536.2,372.8 "
+   fill="#505050"
+   id="polygon604" />
+					<polygon
+   points="535.4,374.9 535.5,372.8 536.2,370.7 536.2,372.8 "
+   fill="#5d4e65"
+   id="polygon606" />
+					<polygon
+   points="535.6,374.8 535.6,372.8 536.4,370.6 536.3,372.7 "
+   fill="#404040"
+   id="polygon608" />
+					<polygon
+   points="535.4,374.9 535.5,372.9 537.3,373.4 537.3,375.4 "
+   fill="#525252"
+   id="polygon610" />
+					<polygon
+   points="537.3,375.4 537.3,373.4 538.4,374.3 538.3,376.4 "
+   fill="#5a5a5a"
+   id="polygon612" />
+					<polygon
+   points="536.9,377 537,375 538.4,374.3 538.3,376.4 "
+   fill="#5f5067"
+   id="polygon614" />
+					<polygon
+   points="537,377.2 537.1,375.1 538.6,374.3 538.5,376.4 "
+   fill="#414141"
+   id="polygon616" />
+					<path
+   d="m 512.9,354.8 8.9,-3.8 -1.9,4.7 0.1,0.1 5.7,-0.8 -1.2,6.4 5.5,-0.9 -1.7,5.5 5.6,0.4 -1.5,3.6 3.8,0.7 -0.8,2.1 1.9,0.6 1,1 -1.3,0.6 c -0.3,0.2 -0.8,0 -1.2,-0.3 -3.7,-3.1 -21.6,-18.8 -22.9,-19.9 z"
+   fill="#a186ae"
+   id="path618" />
+				<g
+   enable-background="new    "
+   id="g644">
+					<defs
+   id="defs621">
+						<path
+   id="dg"
+   d="m 537,375 -0.1,2.1 c -0.3,0.2 -0.8,0 -1.2,-0.3 -3.8,-3.1 -21.6,-18.8 -22.9,-19.9 l 0.1,-2.1 c 1.3,1.1 19.2,16.8 22.9,19.9 0.4,0.3 0.9,0.4 1.2,0.3 z"
+   enable-background="new    " />
+					</defs>
+					<clipPath
+   id="be">
+						<use
+   overflow="visible"
+   xlink:href="#dg"
+   id="use623"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+					</clipPath>
+					<g
+   clip-path="url(#be)"
+   enable-background="new    "
+   id="g642">
+						<path
+   d="m 537,375 -0.1,2.1 c -0.1,0 -0.1,0.1 -0.2,0.1 l 0.1,-2.1 c 0.1,-0.1 0.1,-0.1 0.2,-0.1"
+   fill="#615169"
+   id="path626" />
+						<path
+   d="m 536.8,375 -0.1,2.1 h -0.1 l 0.1,-2.1 c 0,0.1 0,0.1 0.1,0"
+   fill="#64546d"
+   id="path628" />
+						<path
+   d="m 536.7,375.1 -0.1,2.1 h -0.1 l 0.1,-2.1 c 0,-0.1 0,0 0.1,0"
+   fill="#685771"
+   id="path630" />
+						<path
+   d="m 536.5,375 -0.1,2.1 h -0.1 l 0.1,-2.1 h 0.1"
+   fill="#6c5a75"
+   id="path632" />
+						<path
+   d="m 536.4,375 -0.1,2.1 h -0.1 l 0.1,-2.1 h 0.1"
+   fill="#705d79"
+   id="path634" />
+						<path
+   d="m 536.3,375 -0.1,2.1 c -0.1,0 -0.1,0 -0.2,-0.1 l 0.1,-2.1 c 0.1,0 0.1,0.1 0.2,0.1"
+   fill="#73607d"
+   id="path636" />
+						<path
+   d="M 536.1,374.9 536,377 c -0.1,0 -0.1,-0.1 -0.2,-0.1 l 0.1,-2.1 c 0.1,0 0.1,0.1 0.2,0.1"
+   fill="#776380"
+   id="path638" />
+						<path
+   d="m 535.9,374.8 -0.1,2.1 h -0.1 c -3.8,-3.1 -21.6,-18.8 -22.9,-19.9 l 0.1,-2.1 c 1.3,1 19.2,16.7 23,19.9"
+   fill="#7b6684"
+   id="path640" />
+					</g>
+				</g>
+				<g
+   enable-background="new    "
+   id="g670">
+					<defs
+   id="defs647">
+						<path
+   id="bf"
+   d="m 537.1,375.1 -0.1,2.1 c -0.4,0.2 -0.9,0.1 -1.3,-0.3 -3.9,-3.2 -22.8,-19.8 -23,-20 l 0.1,-2.1 c 0.2,0.2 19.1,16.8 23,20 0.4,0.4 0.9,0.5 1.3,0.3 z"
+   enable-background="new    " />
+					</defs>
+					<clipPath
+   id="bg">
+						<use
+   overflow="visible"
+   xlink:href="#bf"
+   id="use649"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+					</clipPath>
+					<g
+   clip-path="url(#bg)"
+   enable-background="new    "
+   id="g668">
+						<path
+   d="m 537.1,375.1 -0.1,2.1 c -0.1,0 -0.2,0.1 -0.3,0.1 l 0.1,-2.1 c 0.1,0 0.2,-0.1 0.3,-0.1"
+   fill="#434343"
+   id="path652" />
+						<path
+   d="m 536.8,375.2 -0.1,2.1 h -0.1 l 0.1,-2.1 h 0.1"
+   fill="#454545"
+   id="path654" />
+						<path
+   d="m 536.7,375.2 -0.1,2.1 h -0.1 l 0.1,-2.1 h 0.1"
+   fill="#484848"
+   id="path656" />
+						<path
+   d="m 536.5,375.2 -0.1,2.1 h -0.1 l 0.1,-2.1 c 0,-0.1 0.1,0 0.1,0"
+   fill="#4a4a4a"
+   id="path658" />
+						<path
+   d="m 536.4,375.1 -0.1,2.1 c -0.1,0 -0.1,0 -0.2,-0.1 l 0.1,-2.1 c 0.1,0.1 0.1,0.1 0.2,0.1"
+   fill="#4d4d4d"
+   id="path660" />
+						<path
+   d="m 536.2,375.1 -0.1,2.1 c -0.1,0 -0.1,-0.1 -0.2,-0.1 L 536,375 c 0.1,0 0.2,0.1 0.2,0.1"
+   fill="#4f4f4f"
+   id="path662" />
+						<path
+   d="m 536,375 -0.1,2.1 c -0.1,0 -0.2,-0.1 -0.2,-0.2 l 0.1,-2.1 0.2,0.2"
+   fill="#525252"
+   id="path664" />
+						<path
+   d="m 535.8,374.8 -0.1,2.1 h -0.1 c -3.9,-3.2 -22.8,-19.8 -23,-20 l 0.1,-2.1 c 0.3,0.2 19.2,16.8 23.1,20"
+   fill="#545454"
+   id="path666" />
+					</g>
+				</g>
+					<path
+   d="m 512.8,354.8 9.1,-4 h 0.1 l -1.9,4.8 5.7,-0.8 -1.1,6.5 5.4,-0.9 -1.6,5.7 5.5,0.3 -1.5,3.7 3.7,0.6 -0.7,2.1 1.8,0.5 1.2,1.1 -1.5,0.8 c -0.4,0.2 -0.9,0.1 -1.3,-0.3 -3.8,-3.3 -22.7,-19.9 -22.9,-20.1 z m 9,-3.9 -8.9,3.8 c 1.3,1.1 19.2,16.8 22.9,19.9 0.4,0.3 0.8,0.4 1.2,0.3 l 1.4,-0.6 -1,-1 -1.8,-0.5 0.7,-2.1 -3.7,-0.6 1.5,-3.7 -5.5,-0.3 1.6,-5.6 -5.4,0.9 1.1,-6.5 -5.7,0.8 h -0.1 l 1.7,-4.8"
+   fill="#707070"
+   id="path672" />
+			</g>
+			<g
+   enable-background="new    "
+   id="g792"
+   transform="translate(-298.05627,-108.9)">
+					<polygon
+   points="523.3,351 523.4,348.9 523.6,349.3 523.6,351.3 "
+   fill="#5b5b5b"
+   id="polygon676" />
+					<polygon
+   points="523.7,351.3 523.8,349.3 528.2,346.6 528.2,348.7 "
+   fill="#414141"
+   id="polygon678" />
+					<polygon
+   points="523.6,351.3 523.6,349.3 523.8,349.3 523.7,351.3 "
+   fill="#4f4f4f"
+   id="polygon680" />
+					<polygon
+   points="527.5,355.1 527.6,353.1 527.6,355.1 "
+   fill="#73607d"
+   id="polygon682" />
+					<polygon
+   points="527.6,355.1 527.6,353.1 527.7,353.1 527.6,355.2 "
+   fill="#816c8b"
+   id="polygon684" />
+					<polygon
+   points="522,356.6 522.1,354.5 523.4,348.9 523.3,351 "
+   fill="#404040"
+   id="polygon686" />
+					<polygon
+   points="522,356.6 522.1,354.5 527.6,353.1 527.5,355.1 "
+   fill="#64536c"
+   id="polygon688" />
+					<polygon
+   points="521.8,356.7 521.9,354.6 521.9,354.7 521.8,356.7 "
+   fill="#585858"
+   id="polygon690" />
+					<polygon
+   points="521.9,356.8 522,354.7 527.5,353.2 527.4,355.3 "
+   fill="#454545"
+   id="polygon692" />
+					<polygon
+   points="521.8,356.7 521.9,354.7 522,354.7 521.9,356.8 "
+   fill="#505050"
+   id="polygon694" />
+					<polygon
+   points="532.7,360.1 532.7,358 532.8,358.1 532.8,360.1 "
+   fill="#73607d"
+   id="polygon696" />
+					<polygon
+   points="532.8,360.1 532.8,358.1 532.9,358.1 532.8,360.2 "
+   fill="#816c8c"
+   id="polygon698" />
+					<polygon
+   points="527.6,355.2 527.7,353.1 527.5,359.6 527.5,361.6 "
+   fill="#73607c"
+   id="polygon700" />
+					<polygon
+   points="527.5,361.6 527.5,359.6 532.7,358 532.7,360.1 "
+   fill="#63536b"
+   id="polygon702" />
+					<polygon
+   points="527.4,355.3 527.5,353.2 527.4,359.7 527.3,361.8 "
+   fill="#4f4f4f"
+   id="polygon704" />
+					<polygon
+   points="527.3,361.8 527.4,359.7 527.4,359.8 527.3,361.8 "
+   fill="#595959"
+   id="polygon706" />
+					<polygon
+   points="527.4,361.8 527.5,359.8 532.7,358.2 532.6,360.3 "
+   fill="#444444"
+   id="polygon708" />
+					<polygon
+   points="527.3,361.8 527.4,359.8 527.5,359.8 527.4,361.8 "
+   fill="#4d4d4d"
+   id="polygon710" />
+					<polygon
+   points="537.5,365.6 537.5,363.5 537.6,363.5 537.5,365.6 "
+   fill="#7b6784"
+   id="polygon712" />
+					<polygon
+   points="537.5,365.6 537.6,363.5 537.6,363.6 537.6,365.7 "
+   fill="#806a89"
+   id="polygon714" />
+					<polygon
+   points="532,365.9 532,363.8 532.9,358.1 532.8,360.2 "
+   fill="#404040"
+   id="polygon716" />
+					<polygon
+   points="532,365.9 532,363.8 537.5,363.5 537.5,365.6 "
+   fill="#6b5974"
+   id="polygon718" />
+					<polygon
+   points="531.8,366 531.9,363.9 532,364 531.9,366 "
+   fill="#5a5a5a"
+   id="polygon720" />
+					<polygon
+   points="531.9,366 532,364 537.4,363.7 537.4,365.7 "
+   fill="#4a4a4a"
+   id="polygon722" />
+					<polygon
+   points="536.6,369.4 536.7,367.4 537.6,363.6 537.6,365.7 "
+   fill="#404040"
+   id="polygon724" />
+					<polygon
+   points="536.4,369.5 536.5,367.4 536.6,367.5 536.5,369.6 "
+   fill="#5b5b5b"
+   id="polygon726" />
+					<polygon
+   points="536.6,369.4 536.7,367.4 540.6,367.7 540.5,369.7 "
+   fill="#705d79"
+   id="polygon728" />
+					<polygon
+   points="536.5,369.6 536.6,367.5 540.4,367.7 540.3,369.8 "
+   fill="#4c4c4c"
+   id="polygon730" />
+				<g
+   enable-background="new    "
+   id="g746">
+					<defs
+   id="defs733">
+						<path
+   id="bh"
+   d="m 544.7,369 -0.1,2.1 c 0,-0.4 -0.1,-0.7 -0.3,-1.1 l -0.1,-0.1 c -3.3,-4 -11.3,-14 -14.6,-18.7 -0.9,-1.3 -1.4,-2.1 -1.5,-2.5 l 0.1,-2.1 c 0.1,0.4 0.6,1.2 1.5,2.5 3.3,4.8 11.3,14.7 14.6,18.7 l 0.1,0.1 c 0.2,0.4 0.3,0.8 0.3,1.1 z"
+   enable-background="new    " />
+					</defs>
+					<clipPath
+   id="bj">
+						<use
+   overflow="visible"
+   xlink:href="#bh"
+   id="use735"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+					</clipPath>
+					<g
+   clip-path="url(#bj)"
+   enable-background="new    "
+   id="g744">
+						<path
+   d="m 544.7,369 -0.1,2.1 V 371 l 0.1,-2"
+   fill="#4f4f4f"
+   id="path738" />
+						<path
+   d="m 544.7,369 -0.1,2.1 v -0.3 l 0.1,-2.1 v 0.3"
+   fill="#525252"
+   id="path740" />
+						<path
+   d="m 544.7,368.6 -0.1,2.1 c 0,-0.2 -0.1,-0.4 -0.3,-0.7 l -0.1,-0.1 c -3.3,-4 -11.3,-14 -14.6,-18.7 -0.9,-1.3 -1.4,-2.1 -1.5,-2.5 l 0.1,-2.1 c 0.1,0.4 0.6,1.2 1.5,2.5 3.3,4.8 11.3,14.7 14.6,18.7 l 0.1,0.1 c 0.1,0.3 0.2,0.5 0.3,0.7"
+   fill="#545454"
+   id="path742" />
+					</g>
+				</g>
+					<polygon
+   points="540,371.9 540.1,369.8 540.5,367.6 540.4,369.6 "
+   fill="#404040"
+   id="polygon748" />
+					<polygon
+   points="540,371.9 540.1,369.8 542,370.1 541.9,372.1 "
+   fill="#73607c"
+   id="polygon750" />
+					<polygon
+   points="539.9,372 540,369.9 541.9,370.2 541.8,372.2 "
+   fill="#4f4f4f"
+   id="polygon752" />
+				<g
+   enable-background="new    "
+   id="g764">
+					<defs
+   id="defs755">
+						<path
+   id="bk"
+   d="m 544.6,371.1 c 0,0.6 -0.3,1.2 -0.9,1.5 l 0.1,-2.1 c 0.6,-0.4 0.9,-0.9 0.9,-1.5 0,0.7 0,1.5 -0.1,2.1 z"
+   enable-background="new    " />
+					</defs>
+					<clipPath
+   id="bl">
+						<use
+   overflow="visible"
+   xlink:href="#bk"
+   id="use757"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+					</clipPath>
+					<g
+   clip-path="url(#bl)"
+   enable-background="new    "
+   id="g762">
+						<path
+   d="m 544.7,369 -0.1,2.1 c 0,0.6 -0.3,1.2 -0.9,1.5 l 0.1,-2.1 c 0.6,-0.3 0.9,-0.9 0.9,-1.5"
+   fill="#615169"
+   id="path760" />
+					</g>
+				</g>
+				<g
+   enable-background="new    "
+   id="g776">
+					<defs
+   id="defs767">
+						<path
+   id="bm"
+   d="m 544.9,369 -0.1,2.1 c 0,0.6 -0.4,1.2 -1,1.6 l 0.1,-2.1 c 0.6,-0.3 1,-0.9 1,-1.6 z"
+   enable-background="new    " />
+					</defs>
+					<clipPath
+   id="bn">
+						<use
+   overflow="visible"
+   xlink:href="#bm"
+   id="use769"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+					</clipPath>
+					<g
+   clip-path="url(#bn)"
+   enable-background="new    "
+   id="g774">
+						<path
+   d="m 544.9,369 -0.1,2.1 c 0,0.6 -0.4,1.2 -1,1.6 l 0.1,-2.1 c 0.6,-0.3 1,-0.9 1,-1.6"
+   fill="#434343"
+   id="path772" />
+					</g>
+				</g>
+					<polygon
+   points="543.4,372.8 543.5,370.8 543.8,370.6 543.7,372.6 "
+   fill="#5e4e65"
+   id="polygon778" />
+					<polygon
+   points="541.9,372.1 542,370.1 543.5,370.8 543.4,372.8 "
+   fill="#7d6987"
+   id="polygon780" />
+					<path
+   d="m 523.3,348.7 0.4,0.4 4.5,-2.6 h 0.1 l 0.1,0.1 c 0,0.2 0.3,0.8 1.5,2.5 3.3,4.8 11.3,14.7 14.6,18.7 l 0.1,0.1 c 0.7,0.9 0.4,2.1 -0.7,2.8 l -0.4,0.2 h -0.1 l -1.5,-0.7 -1.9,-0.3 0.4,-2.2 -3.8,-0.2 -0.1,-0.1 0.9,-3.7 -5.4,0.3 -0.1,-0.1 0.8,-5.7 -5.2,1.5 h -0.1 v -0.1 l 0.1,-6.5 -5.5,1.5 h -0.1 v -0.1 z m 0.3,0.6 -0.3,-0.3 -1.3,5.6 5.5,-1.5 h 0.1 v 0.1 l -0.1,6.5 5.2,-1.5 h 0.1 v 0.1 l -0.8,5.7 5.5,-0.3 h 0.1 v 0.1 l -0.9,3.8 3.8,0.2 -0.4,2.2 1.8,0.3 1.5,0.7 0.3,-0.2 c 1,-0.6 1.2,-1.7 0.6,-2.6 l -0.1,-0.1 c -3.3,-4 -11.3,-14 -14.6,-18.7 -0.9,-1.3 -1.4,-2.1 -1.5,-2.5 l -4.5,2.6 v -0.2"
+   fill="#707070"
+   id="path782" />
+					<path
+   d="m 522.1,354.5 1.3,-5.6 0.3,0.3 h 0.1 l 4.5,-2.6 c 0.1,0.4 0.6,1.2 1.5,2.5 3.3,4.8 11.3,14.7 14.6,18.7 l 0.1,0.1 c 0.6,0.9 0.3,2 -0.6,2.6 l -0.3,0.2 -1.5,-0.7 -1.8,-0.3 0.5,-2.1 -3.9,-0.3 0.9,-3.8 v -0.1 h -0.1 l -5.5,0.3 0.8,-5.7 v -0.1 h -0.1 l -5.2,1.5 0.1,-6.5 v -0.1 h -0.1 z"
+   fill="#a186ae"
+   id="path784" />
+					<polygon
+   points="543.5,373 543.5,370.9 543.9,370.7 543.8,372.8 "
+   fill="#404040"
+   id="polygon786" />
+					<polygon
+   points="541.8,372.2 541.9,370.2 543.4,370.9 543.4,373 "
+   fill="#565656"
+   id="polygon788" />
+					<polygon
+   points="543.4,373 543.4,370.9 543.5,370.9 543.5,373 "
+   fill="#4b4b4b"
+   id="polygon790" />
+			</g>
+<path
+   d="m 221.94373,252.2 10.5,-10.5 c 0.8,-0.8 1,-2.1 0.4,-3 -4.3,-7.4 -21.9,-37.2 -26.6,-39 -5.3,-2.1 -13.1,-3.3 -17.4,-2.5 -3,0.6 -7.4,-3.1 -9.7,-5.4 -1,-0.9 -2.5,-0.9 -3.5,0 l -1.5,1.5 c -0.9,0.9 -1,2.5 -0.1,3.5 2.3,2.5 6.3,7.3 6.5,10.1 0.3,3.9 -0.7,13 2.4,16.1 2.7,2.7 28.7,23.7 35.7,29.4 1,0.8 2.4,0.7 3.3,-0.2 z"
+   fill="#ec1c24"
+   stroke="#808080"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.1834"
+   id="path794" />
+<path
+   d="m 169.04373,94.3 -5.1,5.3 c -6,6.3 -14.3,9.8 -23,9.8 h -2.7 c -8.8,0 -17.1,-3.6 -23.1,-10 l -17.2,-18.2 c -4.6,-4.8 -7.2,-11.2 -7.4,-17.9 l -1.3,-30.4 c -0.4,-16.6 -14,-29.9 -30.6,-29.9 h -10.9 c -16.5,0 -29.8,13.4 -29.8,29.8 v 250.1"
+   fill="none"
+   stroke="#000000"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="6"
+   id="path796" />
+<path
+   d="m 176.14373,193.6 -37.8,-45.9 c -7.5,-9.1 -18.6,-14.3 -30.3,-14.3 h -3.1 c -21.3,0 -38.7,17 -39.2,38.4 l -2.5,111.2"
+   fill="none"
+   stroke="#ff0000"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="6"
+   id="path798" />
+				<g
+   enable-background="new    "
+   id="g894"
+   transform="translate(-298.05627,-108.9)">
+						<polygon
+   points="365.8,482.9 365.4,485 363.9,485.1 364.2,483.1 "
+   fill="#454545"
+   id="polygon800" />
+					<g
+   enable-background="new    "
+   id="g812">
+						<defs
+   id="defs803">
+							<path
+   id="bo"
+   d="m 366.5,482.1 -0.3,2 c -0.1,0.4 -0.3,0.8 -0.7,0.8 l 0.3,-2 c 0.3,0 0.6,-0.3 0.7,-0.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="bp">
+							<use
+   overflow="visible"
+   xlink:href="#bo"
+   id="use805"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#bp)"
+   enable-background="new    "
+   id="g810">
+							<path
+   d="m 365.4,485 0.3,-2 c 0.4,0 0.6,-0.3 0.7,-0.8 l -0.3,2 c 0,0.4 -0.3,0.7 -0.7,0.8"
+   fill="#434343"
+   id="path808" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g824">
+						<defs
+   id="defs815">
+							<path
+   id="bq"
+   d="m 369.5,456.6 0.3,-2 c -0.2,1.5 -2.7,23.2 -3.4,27.6 l -0.3,2 c 0.7,-4.5 3.2,-26.1 3.4,-27.6 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="br">
+							<use
+   overflow="visible"
+   xlink:href="#bq"
+   id="use817"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#br)"
+   enable-background="new    "
+   id="g822">
+							<path
+   d="m 369.5,456.6 0.3,-2 c -0.2,1.5 -2.7,23.2 -3.4,27.6 l -0.3,2 c 0.7,-4.5 3.2,-26.1 3.4,-27.6"
+   fill="#73607d"
+   id="path820" />
+						</g>
+					</g>
+					<g
+   enable-background="new    "
+   id="g836">
+						<defs
+   id="defs827">
+							<path
+   id="bs"
+   d="m 366.5,482.1 -0.3,2 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="bu">
+							<use
+   overflow="visible"
+   xlink:href="#bs"
+   id="use829"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#bu)"
+   enable-background="new    "
+   id="g834">
+							<path
+   d="m 366.1,484.2 0.3,-2 -0.3,2"
+   fill="#73607d"
+   id="path832" />
+						</g>
+					</g>
+						<polygon
+   points="364.2,483.1 363.9,485.1 364,483.8 364.3,481.8 "
+   fill="#515151"
+   id="polygon838" />
+						<polygon
+   points="365.4,480.5 365.1,482.5 364,483.8 364.3,481.8 "
+   fill="#5d4e65"
+   id="polygon840" />
+						<polygon
+   points="365.2,480.4 364.9,482.5 363.8,483.8 364.2,481.7 "
+   fill="#404040"
+   id="polygon842" />
+						<polygon
+   points="365.4,480.4 365,482.4 362.9,481.1 363.3,479.1 "
+   fill="#565656"
+   id="polygon844" />
+						<polygon
+   points="365.7,476.7 365.4,478.8 362.9,481.1 363.3,479.1 "
+   fill="#5d4e65"
+   id="polygon846" />
+						<polygon
+   points="365.6,476.7 365.2,478.7 362.8,481.2 363.1,479.2 "
+   fill="#404040"
+   id="polygon848" />
+						<polygon
+   points="365.7,476.6 365.4,478.7 361.6,476.5 361.9,474.5 "
+   fill="#555555"
+   id="polygon850" />
+						<polygon
+   points="365.9,471.4 365.6,473.5 361.6,476.5 361.9,474.5 "
+   fill="#5d4e65"
+   id="polygon852" />
+						<polygon
+   points="365.8,471.4 365.5,473.4 361.4,476.5 361.7,474.5 "
+   fill="#404040"
+   id="polygon854" />
+						<polygon
+   points="365.9,471.3 365.6,473.4 360.2,469.7 360.6,467.7 "
+   fill="#575757"
+   id="polygon856" />
+						<polygon
+   points="365.5,465.7 365.2,467.8 360.2,469.7 360.6,467.7 "
+   fill="#5e4f66"
+   id="polygon858" />
+						<polygon
+   points="365.3,465.7 365,467.7 360.1,469.7 360.4,467.7 "
+   fill="#414141"
+   id="polygon860" />
+						<polygon
+   points="365.5,465.6 365.2,467.7 359.6,463 359.9,461 "
+   fill="#585858"
+   id="polygon862" />
+						<polygon
+   points="365,458.8 364.7,460.9 359.6,463 359.9,461 "
+   fill="#5e4e66"
+   id="polygon864" />
+						<polygon
+   points="364.8,458.8 364.5,460.8 359.4,463.1 359.7,461 "
+   fill="#414141"
+   id="polygon866" />
+						<polygon
+   points="365,458.7 364.7,460.8 359.8,457.9 360.1,455.8 "
+   fill="#565656"
+   id="polygon868" />
+						<polygon
+   points="369.8,454.5 369.5,456.6 359.8,457.9 360.1,455.8 "
+   fill="#64536c"
+   id="polygon870" />
+						<path
+   d="m 366.3,484.2 c -0.1,0.5 -0.4,0.9 -0.8,0.9 l -1.6,0.2 v -1.5 l 1.1,-1.3 -2.1,-1.3 2.5,-2.5 -3.8,-2.2 4.1,-3.1 -5.4,-3.7 4.9,-2 -5.6,-4.6 5.1,-2.3 -5,-2.9 10,-1.5 c -0.1,0.3 -2.7,23.2 -3.4,27.8 z m -0.9,0.8 c 0.4,0 0.6,-0.4 0.7,-0.8 0.7,-4.4 3.2,-26.1 3.4,-27.6 l -9.8,1.3 4.9,2.9 -5.1,2.3 5.6,4.6 -4.9,2 5.4,3.7 -4.1,3.1 3.8,2.2 -2.5,2.5 2.1,1.3 -1.1,1.4 -0.1,1.3 1.7,-0.2"
+   fill="#707070"
+   id="path872" />
+						<path
+   d="m 369.5,456.6 c -0.2,1.5 -2.7,23.2 -3.4,27.6 -0.1,0.4 -0.3,0.8 -0.7,0.8 l -1.5,0.2 0.1,-1.3 1.1,-1.3 -2.1,-1.4 2.5,-2.4 -3.9,-2.3 4.1,-3 -5.4,-3.8 4.9,-1.9 -5.6,-4.7 5.1,-2.2 -4.9,-3 z"
+   fill="#a186ae"
+   id="path874" />
+						<polygon
+   points="369.9,454.4 369.6,456.4 359.5,457.9 359.8,455.8 "
+   fill="#454545"
+   id="polygon876" />
+					<g
+   enable-background="new    "
+   id="g892">
+						<defs
+   id="defs879">
+							<path
+   id="bv"
+   d="m 369.6,456.4 0.3,-2 c 0.1,0.3 -2.6,23.2 -3.3,27.8 l -0.3,2 c 0.7,-4.6 3.3,-27.5 3.3,-27.8 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="bw">
+							<use
+   overflow="visible"
+   xlink:href="#bv"
+   id="use881"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#bw)"
+   enable-background="new    "
+   id="g890">
+							<path
+   d="m 369.6,456.4 0.3,-2 -0.3,2"
+   fill="#545454"
+   id="path884" />
+							<path
+   d="m 369.6,456.4 0.3,-2 c 0,0.5 -0.6,5.3 -1.2,10.9 l -0.3,2 c 0.6,-5.5 1.2,-10.4 1.2,-10.9"
+   fill="#525252"
+   id="path886" />
+							<path
+   d="m 368.4,467.3 0.3,-2 c -0.8,6.7 -1.7,14.4 -2.1,16.9 l -0.3,2 c 0.3,-2.5 1.3,-10.2 2.1,-16.9"
+   fill="#4f4f4f"
+   id="path888" />
+						</g>
+					</g>
+				</g>
+				<g
+   enable-background="new    "
+   id="g990"
+   transform="translate(-298.05627,-108.9)">
+						<polygon
+   points="358,482.4 357.7,484.5 357.3,484.5 357.6,482.4 "
+   fill="#484848"
+   id="polygon896" />
+						<polygon
+   points="358.7,481.1 358.4,483.1 357.7,484.5 358,482.4 "
+   fill="#404040"
+   id="polygon898" />
+						<polygon
+   points="359.9,480 359.6,482 358.4,483.1 358.7,481.1 "
+   fill="#404040"
+   id="polygon900" />
+						<polygon
+   points="359.9,480 359.6,482 357.7,480.4 358,478.3 "
+   fill="#806b8a"
+   id="polygon902" />
+						<polygon
+   points="360.1,479.9 359.8,481.9 357.9,480.4 358.2,478.4 "
+   fill="#585858"
+   id="polygon904" />
+						<polygon
+   points="360.8,476.3 360.5,478.3 357.7,480.5 358,478.5 "
+   fill="#404040"
+   id="polygon906" />
+						<polygon
+   points="360.8,476.3 360.5,478.3 357,475.8 357.4,473.7 "
+   fill="#7f6a89"
+   id="polygon908" />
+						<polygon
+   points="361,476.3 360.7,478.3 357.2,475.7 357.6,473.7 "
+   fill="#585858"
+   id="polygon910" />
+						<polygon
+   points="357.4,473.7 357,475.8 357,475.6 357.4,473.6 "
+   fill="#776380"
+   id="polygon912" />
+						<polygon
+   points="361.9,471.1 361.6,473.1 357,475.7 357.3,473.7 "
+   fill="#404040"
+   id="polygon914" />
+						<polygon
+   points="361.9,471.1 361.6,473.1 356.8,468.9 357.1,466.9 "
+   fill="#806c8b"
+   id="polygon916" />
+						<polygon
+   points="362.1,471.1 361.8,473.1 357,468.9 357.3,466.9 "
+   fill="#595959"
+   id="polygon918" />
+						<polygon
+   points="357.1,466.9 356.8,468.9 356.7,468.8 357.1,466.8 "
+   fill="#816c8c"
+   id="polygon920" />
+						<polygon
+   points="357.1,466.8 356.8,468.8 356.7,468.8 357.1,466.8 "
+   fill="#404040"
+   id="polygon922" />
+						<polygon
+   points="362.3,465.4 362,467.4 356.8,468.8 357.1,466.8 "
+   fill="#434343"
+   id="polygon924" />
+						<polygon
+   points="362.6,465.5 362.2,467.5 362.2,467.4 362.5,465.4 "
+   fill="#585858"
+   id="polygon926" />
+						<polygon
+   points="362.3,465.4 362,467.4 357.2,462.3 357.5,460.2 "
+   fill="#826d8c"
+   id="polygon928" />
+						<polygon
+   points="362.5,465.4 362.2,467.4 357.4,462.3 357.7,460.2 "
+   fill="#5a5a5a"
+   id="polygon930" />
+						<polygon
+   points="357.5,460.2 357.2,462.3 357.1,462.2 357.5,460.2 "
+   fill="#806a89"
+   id="polygon932" />
+						<polygon
+   points="357.5,460.1 357.2,462.2 357.1,462.2 357.5,460.2 "
+   fill="#404040"
+   id="polygon934" />
+						<polygon
+   points="362.9,458.6 362.6,460.6 357.2,462.2 357.5,460.1 "
+   fill="#424242"
+   id="polygon936" />
+						<polygon
+   points="363.1,458.6 362.8,460.7 362.8,460.6 363.1,458.6 "
+   fill="#5a5a5a"
+   id="polygon938" />
+					<g
+   enable-background="new    "
+   id="g966">
+						<defs
+   id="defs941">
+							<path
+   id="bx"
+   d="m 352,457.3 0.3,-2 c 1,1.9 2.4,18.3 2.9,25.2 0,0.2 0.1,0.5 0.2,0.7 0.4,0.7 1.3,1.2 2.2,1.3 l -0.3,2 c -0.9,0 -1.8,-0.5 -2.2,-1.3 -0.1,-0.2 -0.2,-0.5 -0.2,-0.7 -0.5,-6.9 -1.9,-23.3 -2.9,-25.2 z"
+   enable-background="new    " />
+						</defs>
+						<clipPath
+   id="by">
+							<use
+   overflow="visible"
+   xlink:href="#bx"
+   id="use943"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+						</clipPath>
+						<g
+   clip-path="url(#by)"
+   enable-background="new    "
+   id="g964">
+							<path
+   d="m 352,457.3 0.3,-2 c 0.8,1.5 1.8,12 2.5,19.7 l -0.3,2 c -0.7,-7.7 -1.7,-18.2 -2.5,-19.7"
+   fill="#545454"
+   id="path946" />
+							<path
+   d="m 354.5,477 0.3,-2 c 0.2,2.1 0.3,4 0.5,5.5 l -0.3,2 c -0.2,-1.5 -0.4,-3.4 -0.5,-5.5"
+   fill="#525252"
+   id="path948" />
+							<path
+   d="m 354.9,482.5 0.3,-2 c 0,0.2 0.1,0.5 0.2,0.7 0.1,0.2 0.2,0.4 0.4,0.5 l -0.3,2 c -0.1,-0.2 -0.3,-0.3 -0.4,-0.5 -0.1,-0.2 -0.2,-0.4 -0.2,-0.7"
+   fill="#545454"
+   id="path950" />
+							<path
+   d="m 355.5,483.7 0.3,-2 0.3,0.3 -0.3,2 -0.3,-0.3"
+   fill="#525252"
+   id="path952" />
+							<path
+   d="m 355.8,484 0.3,-2 c 0.1,0.1 0.2,0.1 0.3,0.2 l -0.3,2 c -0.1,-0.1 -0.2,-0.2 -0.3,-0.2"
+   fill="#4f4f4f"
+   id="path954" />
+							<path
+   d="m 356.1,484.1 0.3,-2 c 0.1,0 0.2,0.1 0.3,0.1 l -0.3,2 c -0.2,0 -0.2,0 -0.3,-0.1"
+   fill="#4d4d4d"
+   id="path956" />
+							<path
+   d="m 356.3,484.3 0.3,-2 c 0.1,0 0.2,0.1 0.3,0.1 l -0.3,2 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1"
+   fill="#4a4a4a"
+   id="path958" />
+							<path
+   d="m 356.6,484.4 0.3,-2 c 0.1,0 0.2,0.1 0.3,0.1 l -0.3,2 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1"
+   fill="#484848"
+   id="path960" />
+							<path
+   d="m 356.9,484.4 0.3,-2 h 0.4 l -0.3,2 c -0.1,0.1 -0.2,0 -0.4,0"
+   fill="#454545"
+   id="path962" />
+						</g>
+					</g>
+						<polygon
+   points="352.2,455.1 351.9,457.1 351.8,457.2 352.1,455.2 "
+   fill="#414141"
+   id="polygon968" />
+						<polygon
+   points="357.7,455.2 357.4,457.2 352,457.3 352.3,455.3 "
+   fill="#685670"
+   id="polygon970" />
+						<polygon
+   points="357.8,455.1 357.5,457.1 357.4,457.2 357.7,455.2 "
+   fill="#5d4e65"
+   id="polygon972" />
+						<polygon
+   points="357.6,455 357.3,457.1 351.9,457.1 352.2,455.1 "
+   fill="#474747"
+   id="polygon974" />
+						<polygon
+   points="357.8,455.1 357.5,457.1 357.5,456.7 357.8,454.7 "
+   fill="#545454"
+   id="polygon976" />
+						<polygon
+   points="362.9,458.6 362.6,460.6 357.5,456.7 357.8,454.7 "
+   fill="#806a89"
+   id="polygon978" />
+						<path
+   d="m 362.6,460.6 -5.4,1.5 -0.1,0.1 v 0.1 l 4.8,5.2 -5.2,1.3 h -0.1 v 0.1 l 4.8,4.2 -4.5,2.5 v 0.1 l 3.5,2.6 -2.8,2 1.9,1.6 -1.2,1.1 -0.7,1.4 h -0.4 c -0.9,0 -1.8,-0.5 -2.2,-1.3 -0.1,-0.2 -0.2,-0.5 -0.2,-0.7 -0.6,-6.9 -2,-23.3 -2.9,-25.2 l 5.4,-0.1 0.1,-0.1 v -0.4 z"
+   fill="#a186ae"
+   id="path980" />
+						<polygon
+   points="357.7,454.5 357.3,456.5 357.3,456.6 357.6,454.5 "
+   fill="#404040"
+   id="polygon982" />
+						<path
+   d="m 357.8,484.6 h -0.5 c -1,0 -1.9,-0.5 -2.4,-1.4 -0.1,-0.2 -0.2,-0.5 -0.2,-0.8 -0.4,-5.4 -1.9,-23.2 -2.9,-25.1 l -0.1,-0.1 v -0.1 h 0.1 l 5.5,-0.1 v -0.5 l 0.1,-0.1 h 0.1 l 5.4,4.1 v 0.1 l -5.4,1.6 4.8,5.2 v 0.1 l -5.2,1.4 4.8,4.2 -4.5,2.6 3.5,2.6 -2.8,2.2 1.9,1.5 -1.3,1.3 z m -0.5,-0.1 h 0.4 l 0.7,-1.3 1.3,-1.1 -1.9,-1.5 2.8,-2.1 -3.5,-2.6 v -0.1 l 4.6,-2.5 -4.8,-4.2 V 469 h 0.1 l 5.2,-1.3 -4.8,-5.2 v -0.1 l 0.1,-0.1 5.4,-1.5 -5.1,-3.9 v 0.4 l -0.1,0.1 -5.4,0.1 c 1,1.9 2.4,18.3 2.9,25.2 0,0.2 0.1,0.5 0.2,0.7 0.1,0.6 1,1 1.9,1.1"
+   fill="#707070"
+   id="path984" />
+						<polygon
+   points="357.8,454.5 357.4,456.5 357.3,456.5 357.7,454.5 "
+   fill="#4b4b4b"
+   id="polygon986" />
+						<polygon
+   points="363.1,458.6 362.8,460.6 357.4,456.5 357.8,454.5 "
+   fill="#585858"
+   id="polygon988" />
+				</g>
+	<path
+   d="m 70.54373,357.2 -15,-0.3 c -1.1,0 -2,-0.8 -2.3,-1.9 -2,-8.3 -9.9,-42.1 -7.8,-46.6 2.4,-5.2 6.2,-11.5 9.9,-13.9 2.6,-1.7 3.2,-7.4 3.3,-10.7 0,-1.3 1.2,-2.3 2.5,-2.3 h 4.4 c 1.3,0 2.3,1.1 2.4,2.4 0.1,3.4 0.5,9.7 2.3,11.8 2.5,3.1 8.3,8.9 8.2,13.3 -0.1,3.8 -4.3,37.2 -5.4,46 -0.2,1.3 -1.2,2.2 -2.5,2.2 z"
+   fill="#ff0000"
+   stroke="#808080"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   stroke-width="0.1834"
+   id="path992" />
+</svg>
