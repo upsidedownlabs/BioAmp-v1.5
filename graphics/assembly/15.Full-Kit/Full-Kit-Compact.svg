@@ -851,13 +851,13 @@
      inkscape:snap-intersection-paths="false"
      inkscape:snap-smooth-nodes="false"
      inkscape:object-paths="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="53.181092"
-     inkscape:cy="-2.8037096"
+     inkscape:zoom="2"
+     inkscape:cx="217.21065"
+     inkscape:cy="30.696077"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6251"
+     inkscape:current-layer="breadboard"
      inkscape:document-rotation="0"
      showguides="false" />
   <title
@@ -11690,9 +11690,9 @@
      id="componentContainer" />
   <g
      id="breadboard"
-     transform="matrix(99.999042,0,0,99.999042,26049.769,2739.3648)"
-     inkscape:transform-center-x="-15091.911"
-     inkscape:transform-center-y="-391.27176"
+     transform="matrix(-99.999042,0,0,-99.999042,33049.702,6039.3332)"
+     inkscape:transform-center-x="15091.911"
+     inkscape:transform-center-y="391.27177"
      inkscape:export-xdpi="900"
      inkscape:export-ydpi="900">
     <path
@@ -11738,7 +11738,8 @@
     <g
        aria-label="TL074CN"
        id="label"
-       style="font-size:8px;font-family:OCRA;text-anchor:start;fill:#e6e6e6;stroke:none">
+       style="font-size:8px;font-family:OCRA;text-anchor:start;fill:#e6e6e6;stroke:none"
+       transform="rotate(-180,34.714427,16.209892)">
       <path
          d="m 17.00349,13.28997 h 4.933594 v 0.664063 h -2.070312 v 5.167969 H 19.073803 V 13.954033 H 17.00349 Z"
          style="font-size:8px;font-family:OCRA;text-anchor:start;fill:#e6e6e6;stroke:none"

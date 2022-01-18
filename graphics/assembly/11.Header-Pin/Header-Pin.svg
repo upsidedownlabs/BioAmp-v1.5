@@ -14,7 +14,10 @@
    viewBox="0 0 23621.346 12598"
    id="svg6251"
    sodipodi:docname="Header-Pin.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/lorforlinux/Documents/Upside Down Labs Store/Github/udlabs_BioAmp_v1.5/graphics/assembly/11.Header-Pin/Header-Pin.png"
+   inkscape:export-xdpi="900"
+   inkscape:export-ydpi="900">
   <metadata
      id="metadata6257">
     <rdf:RDF>
@@ -204,7 +207,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6251"
+     inkscape:current-layer="breadboard"
      inkscape:document-rotation="0"
      showguides="false" />
   <title
@@ -11037,9 +11040,9 @@
      id="componentContainer" />
   <g
      id="breadboard"
-     transform="matrix(99.999042,0,0,99.999042,10378.888,2417.145)"
-     inkscape:transform-center-x="-15091.911"
-     inkscape:transform-center-y="-391.27176"
+     transform="matrix(-99.999042,0,0,-99.999042,17378.821,5717.1134)"
+     inkscape:transform-center-x="15091.911"
+     inkscape:transform-center-y="391.27177"
      inkscape:export-xdpi="900"
      inkscape:export-ydpi="900">
     <path
@@ -11085,7 +11088,8 @@
     <g
        aria-label="TL074CN"
        id="label"
-       style="font-size:8px;font-family:OCRA;text-anchor:start;fill:#e6e6e6;stroke:none">
+       style="font-size:8px;font-family:OCRA;text-anchor:start;fill:#e6e6e6;stroke:none"
+       transform="rotate(-180,34.714428,16.209892)">
       <path
          d="m 17.00349,13.28997 h 4.933594 v 0.664063 h -2.070312 v 5.167969 H 19.073803 V 13.954033 H 17.00349 Z"
          style="font-size:8px;font-family:OCRA;text-anchor:start;fill:#e6e6e6;stroke:none"
